@@ -1,5 +1,5 @@
 """
-문제 링크 : https://www.acmicpc.net/problem/2588
+문제 링크 : https://www.acmicpc.net/problem/2742
 
 code by Song Kitae(DKSH)
 """
