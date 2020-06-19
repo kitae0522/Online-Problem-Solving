@@ -19,7 +19,7 @@ int main() {
         tmp = (num/10) + (num%10);
         new_number = 10*(num%10) + (tmp%10);
         i++;
-		num = new_number;
+	num = new_number;
         if(num == check_number) {
             break;
         }
