@@ -1,2 +1,2 @@
-# Baekjoon_repository
-백준 문제풀이
+# Online-Problem-Solving
+온라인 문제풀이
