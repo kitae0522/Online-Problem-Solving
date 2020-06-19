@@ -1,3 +1,10 @@
+"""
+문제 링크 : https://nypc.github.io/2019/2019_online_3.html
+
+code by Song Kitae(DKSH)
+"""
+
+
 if __name__ == "__main__":
     start_hp, count = map(int, input().split())
     max_hp = start_hp
