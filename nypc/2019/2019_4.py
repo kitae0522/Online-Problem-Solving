@@ -4,9 +4,21 @@
 code by Song Kitae(DKSH)
 """
 
+
 if __name__ == "__main__":
-    count = int(input())
-    N1 = [int(x) for x in input().strip().split()]
-    N2 = [int(y) for y in input().strip().split()]
-    print(N1)
-    print(N2)
+    res = 100
+    tmp = 0
+
+    n = int(input())
+    arr1 = [int(x) for x in input().strip().split()]
+    arr2 = [int(x) for x in input().strip().split()]
+    for i in range(n):
+        if arr1[i] == 0:
+            tmp = 0
+            break
+        if arr2[i] == 0:
+            continue
+        tmp = arr1[i] // arr2[i]
+        if tmp < res:
+            res = tmp
+    print(tmp)
