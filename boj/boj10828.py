@@ -1,3 +1,10 @@
+"""
+문제 링크 : https://www.acmicpc.net/problem/10828
+
+code by Song Kitae(DKSH)
+"""
+
+
 import sys
 
 
