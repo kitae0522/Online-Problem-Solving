@@ -9,6 +9,7 @@
 | **기찍 N** | [/boj/boj2742.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj2742.py) | [https://boj.kr/2742](https://www.acmicpc.net/problem/2742) |
 | **평균 점수** | [/boj/boj10039.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj10039.py) | [https://boj.kr/10039](https://www.acmicpc.net/problem/10039) |
 | **스택** | [/boj/boj10828.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj10828.py) | [https://boj.kr/10828](https://www.acmicpc.net/problem/10828) |
+| **달팽이는 올라가고 싶다** | [/boj/boj2869.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj2869.cpp) | [https://boj.kr/2869](https://www.acmicpc.net/problem/2869) |
 <br>
 
 | nypc | Solution Link | Problem Link |
