@@ -1,6 +1,5 @@
 # Online Problem Solving Repository 💻
 ## 1️⃣ Baekjoon Online Judge
----
 | No | Boj | Solution Link | Problem Link |
 |:----------|:----------:|:----------:|----------:|
 |1| **더하기 사이클** | [/boj/boj1110.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj1110.py) | [https://boj.kr/1110](https://www.acmicpc.net/problem/1110) |
@@ -15,10 +14,8 @@
 |10| **정수 N개의 합** | [/boj/boj15596.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj15596.py) | [https://boj.kr/15596](https://www.acmicpc.net/problem/15596) |
 |11| **윤년** | [/boj/boj2753.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj2753.py) | [https://boj.kr/2753](https://www.acmicpc.net/problem/2753) |
 |11| **설탕 배달** | [/boj/boj2839.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj2839.py) | [https://boj.kr/2839](https://www.acmicpc.net/problem/2839) |
-<br>
 
 ## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
----
 | No | nypc | Solution Link | Problem Link |
 |:----------|:----------:|:----------:|----------:|
 |1| **최대 HP** | [/nypc/2019/2019_3.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_3.py) | [/2019_online_3.html](https://nypc.github.io/2019/2019_online_3.html) |
