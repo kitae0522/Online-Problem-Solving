@@ -10,6 +10,7 @@
 |7| **평균 점수** | [/boj/boj10039.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj10039.py) | [https://boj.kr/10039](https://www.acmicpc.net/problem/10039) |
 |8| **스택** | [/boj/boj10828.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj10828.py) | [https://boj.kr/10828](https://www.acmicpc.net/problem/10828) |
 |9| **달팽이는 올라가고 싶다** | [/boj/boj2869.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj2869.cpp) | [https://boj.kr/2869](https://www.acmicpc.net/problem/2869) |
+|10| **정수 N개의 합** | [/boj/boj15596.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj15596.py) | [https://boj.kr/15596](https://www.acmicpc.net/problem/15596) |
 <br>
 
 | No | nypc | Solution Link | Problem Link |
