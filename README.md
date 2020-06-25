@@ -1,4 +1,6 @@
-# Online-Problem-Solving
+# Online Problem Solving Repository 💻
+## 1️⃣ Baekjoon Online Judge
+---
 | No | Boj | Solution Link | Problem Link |
 |:----------|:----------:|:----------:|----------:|
 |1| **더하기 사이클** | [/boj/boj1110.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj1110.py) | [https://boj.kr/1110](https://www.acmicpc.net/problem/1110) |
@@ -15,6 +17,8 @@
 |11| **설탕 배달** | [/boj/boj2839.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj2839.py) | [https://boj.kr/2839](https://www.acmicpc.net/problem/2839) |
 <br>
 
+## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
+---
 | No | nypc | Solution Link | Problem Link |
 |:----------|:----------:|:----------:|----------:|
 |1| **최대 HP** | [/nypc/2019/2019_3.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_3.py) | [/2019_online_3.html](https://nypc.github.io/2019/2019_online_3.html) |
