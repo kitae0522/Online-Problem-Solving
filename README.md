@@ -11,6 +11,8 @@
 |8| **스택** | [/boj/boj10828.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj10828.py) | [https://boj.kr/10828](https://www.acmicpc.net/problem/10828) |
 |9| **달팽이는 올라가고 싶다** | [/boj/boj2869.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj2869.cpp) | [https://boj.kr/2869](https://www.acmicpc.net/problem/2869) |
 |10| **정수 N개의 합** | [/boj/boj15596.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj15596.py) | [https://boj.kr/15596](https://www.acmicpc.net/problem/15596) |
+|11| **윤년** | [/boj/boj2753.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj2753.py) | [https://boj.kr/2753](https://www.acmicpc.net/problem/2753) |
+|11| **설탕 배달** | [/boj/boj2839.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj2839.py) | [https://boj.kr/2839](https://www.acmicpc.net/problem/2839) |
 <br>
 
 | No | nypc | Solution Link | Problem Link |
