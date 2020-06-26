@@ -2,18 +2,26 @@
 ## 1️⃣ Baekjoon Online Judge
 | No | Boj | Solution Link | Problem Link |
 |:----------|:----------:|:----------:|----------:|
-|1| **더하기 사이클** | [/boj/boj1110.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj1110.py) | [https://boj.kr/1110](https://www.acmicpc.net/problem/1110) |
-|2| **더하기 사이클** | [/boj/boj1110.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj1110.cpp) | [https://boj.kr/1110](https://www.acmicpc.net/problem/1110) |
-|3| **소수 찾기** | [/boj/boj1978.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj1978.py) | [https://boj.kr/1978](https://www.acmicpc.net/problem/1978) |
-|4| **최댓값** | [/boj/boj2562.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj2562.py) | [https://boj.kr/2562](https://www.acmicpc.net/problem/2562) |
-|5| **곱셈** | [/boj/boj2588.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj2588.py) | [https://boj.kr/2588](https://www.acmicpc.net/problem/2588) |
-|6| **기찍 N** | [/boj/boj2742.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj2742.py) | [https://boj.kr/2742](https://www.acmicpc.net/problem/2742) |
-|7| **평균 점수** | [/boj/boj10039.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj10039.py) | [https://boj.kr/10039](https://www.acmicpc.net/problem/10039) |
-|8| **스택** | [/boj/boj10828.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj10828.py) | [https://boj.kr/10828](https://www.acmicpc.net/problem/10828) |
-|9| **달팽이는 올라가고 싶다** | [/boj/boj2869.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj2869.cpp) | [https://boj.kr/2869](https://www.acmicpc.net/problem/2869) |
-|10| **정수 N개의 합** | [/boj/boj15596.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj15596.py) | [https://boj.kr/15596](https://www.acmicpc.net/problem/15596) |
-|11| **윤년** | [/boj/boj2753.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj2753.py) | [https://boj.kr/2753](https://www.acmicpc.net/problem/2753) |
-|11| **설탕 배달** | [/boj/boj2839.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj2839.py) | [https://boj.kr/2839](https://www.acmicpc.net/problem/2839) |
+|1| **더하기 사이클** | [/boj/boj_1110.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1110.py) | [https://boj.kr/1110](https://www.acmicpc.net/problem/1110) |
+|2| **더하기 사이클** | [/boj/boj_1110.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1110.cpp) | [https://boj.kr/1110](https://www.acmicpc.net/problem/1110) |
+|3| **소수 찾기** | [/boj/boj_1978.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1978.py) | [https://boj.kr/1978](https://www.acmicpc.net/problem/1978) |
+|4| **최댓값** | [/boj/boj_2562.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2562.py) | [https://boj.kr/2562](https://www.acmicpc.net/problem/2562) |
+|5| **곱셈** | [/boj/boj_2588.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2588.py) | [https://boj.kr/2588](https://www.acmicpc.net/problem/2588) |
+|6| **단지번호붙이기** | [/boj/boj_2667.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2667.py) | [https://boj.kr/2667](https://www.acmicpc.net/problem/2667) |
+|7| **N 찍기** | [/boj/boj_2741.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2741.py) | [https://boj.kr/2741](https://www.acmicpc.net/problem/2741) |
+|8| **기찍 N** | [/boj/boj_2742.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2742.py) | [https://boj.kr/2742](https://www.acmicpc.net/problem/2742) |
+|9| **피보나치 수** | [/boj/boj_2747.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2747.py) | [https://boj.kr/2747](https://www.acmicpc.net/problem/2747) |
+|10| **피보나치 수 3** | [/boj/boj_2749.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2749.py) | [https://boj.kr/2749](https://www.acmicpc.net/problem/2749) |
+|11| **수 정렬하기 2** | [/boj/boj_2751.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2751.py) | [https://boj.kr/2751](https://www.acmicpc.net/problem/2751) |
+|12| **윤년** | [/boj/boj_2753.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2753.py) | [https://boj.kr/2753](https://www.acmicpc.net/problem/2753) |
+|13| **설탕 배달** | [/boj/boj_2839.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2839.py) | [https://boj.kr/2839](https://www.acmicpc.net/problem/2839) |
+|14| **달팽이는 올라가고 싶다** | [/boj/boj_2869.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2869.cpp) | [https://boj.kr/2869](https://www.acmicpc.net/problem/2869) |
+|15| **평균 점수** | [/boj/boj_10039.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10039.py) | [https://boj.kr/10039](https://www.acmicpc.net/problem/10039) |
+|16| **피보나치 수 4** | [/boj/boj_10826.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10826.py) | [https://boj.kr/10826](https://www.acmicpc.net/problem/10826) |
+|17| **스택** | [/boj/boj_10828.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10828.py) | [https://boj.kr/10828](https://www.acmicpc.net/problem/10828) |
+|18| **피보나치 수 5** | [/boj/boj_10870.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10870.py) | [https://boj.kr/10870](https://www.acmicpc.net/problem/10870) |
+|19| **정수 N개의 합** | [/boj/boj_15596.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_15596.py) | [https://boj.kr/15596](https://www.acmicpc.net/problem/15596) |
+
 
 ## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
 | No | nypc | Solution Link | Problem Link |
