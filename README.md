@@ -24,7 +24,7 @@
 |20| **큐** | [/boj/boj_10845.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10845.py) | [https://boj.kr/10845](https://www.acmicpc.net/problem/10845) |
 |21| **2*n 타일링** | [/boj/boj_11726.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_11726.py) | [https://boj.kr/11726](https://www.acmicpc.net/problem/11726) |
 |22| **2*n 타일링 2** | [/boj/boj_11727.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_11727.py) | [https://boj.kr/11727](https://www.acmicpc.net/problem/11727) |
-|23| **Cow Contest** | [/boj/boj_6156.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_6156.py) | [https://boj.kr/6156](https://www.acmicpc.net/problem/6156) |
+|23| **Cow Contest** | [/boj/boj_6156.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_6156.cpp) | [https://boj.kr/6156](https://www.acmicpc.net/problem/6156) |
 
 ## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
 | No | nypc | Solution Link | Problem Link |
