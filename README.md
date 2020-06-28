@@ -22,6 +22,7 @@
 |18| **피보나치 수 5** | [/boj/boj_10870.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10870.py) | [https://boj.kr/10870](https://www.acmicpc.net/problem/10870) |
 |19| **정수 N개의 합** | [/boj/boj_15596.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_15596.py) | [https://boj.kr/15596](https://www.acmicpc.net/problem/15596) |
 |20| **큐** | [/boj/boj_10845.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10845.py) | [https://boj.kr/10845](https://www.acmicpc.net/problem/10845) |
+|21| **2*n 타일링** | [/boj/boj_11726.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_11726.py) | [https://boj.kr/11726](https://www.acmicpc.net/problem/11726) |
 
 
 ## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
