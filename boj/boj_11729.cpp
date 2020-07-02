@@ -1,3 +1,9 @@
+/*
+문제 링크 : https://www.acmicpc.net/problem/11729
+
+code by Song Kitae(DKSH)
+*/
+
 #include <iostream>
 using namespace std;
 
