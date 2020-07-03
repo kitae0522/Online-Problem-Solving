@@ -27,6 +27,7 @@
 |23| **Cow Contest** | [/boj/boj_6156.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_6156.cpp) | [https://boj.kr/6156](https://www.acmicpc.net/problem/6156) |
 |24| **바이러스** | [/boj/boj_2606.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2606.cpp) | [https://boj.kr/2606](https://www.acmicpc.net/problem/2606) |
 |25| **하노이 탑 이동 순서** | [/boj/boj_11729.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_11729.cpp) | [https://boj.kr/11729](https://www.acmicpc.net/problem/11729) |
+|26| **DFS와 BFS** | [/boj/boj_1260.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1260.cpp) | [https://boj.kr/1260](https://www.acmicpc.net/problem/1260) |
 
 ## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
 | No | nypc | Solution Link | Problem Link |
