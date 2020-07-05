@@ -29,7 +29,7 @@
 |25| **하노이 탑 이동 순서** | [/boj/boj_11729.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_11729.cpp) | [https://boj.kr/11729](https://www.acmicpc.net/problem/11729) |
 |26| **DFS와 BFS** | [/boj/boj_1260.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1260.cpp) | [https://boj.kr/1260](https://www.acmicpc.net/problem/1260) |
 |27| **영화감독 숌** | [/boj/boj_1436.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1436.py) | [https://boj.kr/1436](https://www.acmicpc.net/problem/1436) |
-|27| **수 정렬하기 3** | [/boj/boj_10989.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10989.py) | [https://boj.kr/10989](https://www.acmicpc.net/problem/10989) |
+|28| **수 정렬하기 3** | [/boj/boj_10989.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10989.py) | [https://boj.kr/10989](https://www.acmicpc.net/problem/10989) |
 
 ## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
 | No | nypc | Solution Link | Problem Link |
