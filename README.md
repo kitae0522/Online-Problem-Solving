@@ -30,6 +30,7 @@
 |26| **DFS와 BFS** | [/boj/boj_1260.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1260.cpp) | [https://boj.kr/1260](https://www.acmicpc.net/problem/1260) |
 |27| **영화감독 숌** | [/boj/boj_1436.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1436.py) | [https://boj.kr/1436](https://www.acmicpc.net/problem/1436) |
 |28| **수 정렬하기 3** | [/boj/boj_10989.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10989.py) | [https://boj.kr/10989](https://www.acmicpc.net/problem/10989) |
+|29| **ATM** | [/boj/boj_11399.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_11399.py) | [https://boj.kr/11399](https://www.acmicpc.net/problem/11399) |
 
 ## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
 | No | nypc | Solution Link | Problem Link |
