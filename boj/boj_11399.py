@@ -1,3 +1,10 @@
+"""
+문제 링크 : https://www.acmicpc.net/problem/11399
+
+code by Song Kitae(DKSH)
+"""
+
+
 def sort_number(num_list):
     for x in range(len(num_list) - 1):
         for y in range(len(num_list) - 1):
