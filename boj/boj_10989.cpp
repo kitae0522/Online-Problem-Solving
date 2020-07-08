@@ -1,3 +1,8 @@
+/*
+문제 링크 : https://www.acmicpc.net/problem/10989
+
+code by Song Kitae(DKSH)
+*/
 #include <stdio.h>
 
 int arr[10000];
