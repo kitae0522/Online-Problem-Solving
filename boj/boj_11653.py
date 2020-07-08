@@ -1,3 +1,9 @@
+"""
+문제 링크 : https://www.acmicpc.net/problem/11653
+
+code by Song Kitae(DKSH)
+"""
+
 import sys
 
 N = int(sys.stdin.readline())
