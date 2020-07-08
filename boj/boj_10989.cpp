@@ -3,6 +3,8 @@
 
 code by Song Kitae(DKSH)
 */
+
+
 #include <stdio.h>
 
 int arr[10000];
