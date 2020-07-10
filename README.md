@@ -33,6 +33,7 @@
 |29| **ATM** | [/boj/boj_11399.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_11399.py) | [https://boj.kr/11399](https://www.acmicpc.net/problem/11399) |
 |30| **소인수분해** | [/boj/boj_11653.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_11653.py) | [https://boj.kr/11653](https://www.acmicpc.net/problem/11653) |
 |31| **손익분기점** | [/boj/boj_1712.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1712.cpp) | [https://boj.kr/1712](https://www.acmicpc.net/problem/1712) |
+|32| **숫자의 개수** | [/boj/boj_2577.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2577.py) | [https://boj.kr/2577](https://www.acmicpc.net/problem/2577) |
 
 ## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
 | No | nypc | Solution Link | Problem Link |
