@@ -1,3 +1,10 @@
+"""
+문제 링크 : https://www.acmicpc.net/problem/14563
+
+code by Song Kitae(DKSH)
+"""
+
+
 def perfect_num(num):
     sum = 0
     for i in range(1, num, 1):
