@@ -38,6 +38,7 @@
 |34| **평균은 넘겠지** | [/boj/boj_4344.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_4344.py) | [https://boj.kr/4344](https://www.acmicpc.net/problem/4344) |
 |35| **단어 공부** | [/boj/boj_1157.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1157.py) | [https://boj.kr/1157](https://www.acmicpc.net/problem/1157) |
 |36| **OX퀴즈** | [/boj/boj_8958.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_8958.py) | [https://boj.kr/8958](https://www.acmicpc.net/problem/8958) |
+|37| **소수 구하기** | [/boj/boj_1929.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1929.py) | [https://boj.kr/1929](https://www.acmicpc.net/problem/1929) |
 
 ## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
 | No | nypc | Solution Link | Problem Link |
