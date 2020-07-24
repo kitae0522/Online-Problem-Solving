@@ -6,7 +6,7 @@
 |2| **소수 찾기** | [/boj/boj_1978.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1978.py) | [https://boj.kr/1978](https://www.acmicpc.net/problem/1978) |
 |3| **최댓값** | [/boj/boj_2562.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2562.py) | [https://boj.kr/2562](https://www.acmicpc.net/problem/2562) |
 |4| **곱셈** | [/boj/boj_2588.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2588.py) | [https://boj.kr/2588](https://www.acmicpc.net/problem/2588) |
-|5| **단지번호붙이기** | [/boj/boj_2667.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2667.py) | [https://boj.kr/2667](https://www.acmicpc.net/problem/2667) |
+|5| **단지번호붙이기** | [/boj/boj_2667.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2667.cpp) | [https://boj.kr/2667](https://www.acmicpc.net/problem/2667) |
 |6| **N 찍기** | [/boj/boj_2741.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2741.py) | [https://boj.kr/2741](https://www.acmicpc.net/problem/2741) |
 |7| **기찍 N** | [/boj/boj_2742.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2742.py) | [https://boj.kr/2742](https://www.acmicpc.net/problem/2742) |
 |8| **피보나치 수** | [/boj/boj_2747.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2747.py) | [https://boj.kr/2747](https://www.acmicpc.net/problem/2747) |
