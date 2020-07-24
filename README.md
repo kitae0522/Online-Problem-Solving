@@ -21,7 +21,7 @@
 |17| **피보나치 수 5** | [/boj/boj_10870.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10870.py) | [https://boj.kr/10870](https://www.acmicpc.net/problem/10870) |
 |18| **정수 N개의 합** | [/boj/boj_15596.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_15596.py) | [https://boj.kr/15596](https://www.acmicpc.net/problem/15596) |
 |19| **큐** | [/boj/boj_10845.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10845.py) | [https://boj.kr/10845](https://www.acmicpc.net/problem/10845) |
-|20| **2*n 타일링** | [/boj/boj_11726.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_11726.cppy) | [https://boj.kr/11726](https://www.acmicpc.net/problem/11726) |
+|20| **2*n 타일링** | [/boj/boj_11726.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_11726.cpp) | [https://boj.kr/11726](https://www.acmicpc.net/problem/11726) |
 |21| **2*n 타일링 2** | [/boj/boj_11727.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_11727.cpp) | [https://boj.kr/11727](https://www.acmicpc.net/problem/11727) |
 |22| **Cow Contest** | [/boj/boj_6156.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_6156.cpp) | [https://boj.kr/6156](https://www.acmicpc.net/problem/6156) |
 |23| **바이러스** | [/boj/boj_2606.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2606.cpp) | [https://boj.kr/2606](https://www.acmicpc.net/problem/2606) |
