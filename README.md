@@ -43,6 +43,6 @@
 ## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
 | No | nypc | Solution Link | Problem Link |
 |:----------|:----------:|:----------:|----------:|
-|1| **최대 HP** | [/nypc/2019/2019_3.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_3.py) | [/2019_online_3.html](https://nypc.github.io/2019/2019_online_3.html) |
-|2| **요리 제작** | [/nypc/2019/2019_4.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_4.py) | [/2019_online_4.html](https://nypc.github.io/2019/2019_online_4.html) |
-|3| **요리 제작** | [/nypc/2019/2019_4.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_4.cpp) | [/2019_online_4.html](https://nypc.github.io/2019/2019_online_4.html) |
+|1| **최대 HP** | [/nypc/2019/2019_3.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_3.py) | [https://nypc.github.io/2019/2019_online_3.html](https://nypc.github.io/2019/2019_online_3.html) |
+|2| **요리 제작** | [/nypc/2019/2019_4.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_4.py) | [https://nypc.github.io/2019/2019_online_4.html](https://nypc.github.io/2019/2019_online_4.html) |
+|3| **요리 제작** | [/nypc/2019/2019_4.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_4.cpp) | [https://nypc.github.io/2019/2019_online_4.html](https://nypc.github.io/2019/2019_online_4.html) |
