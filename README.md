@@ -39,6 +39,7 @@
 |35| **단어 공부** | [/boj/boj_1157.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1157.py) | [https://boj.kr/1157](https://www.acmicpc.net/problem/1157) |
 |36| **OX퀴즈** | [/boj/boj_8958.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_8958.py) | [https://boj.kr/8958](https://www.acmicpc.net/problem/8958) |
 |37| **소수 구하기** | [/boj/boj_1929.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1929.py) | [https://boj.kr/1929](https://www.acmicpc.net/problem/1929) |
+|38| **별 찍기 - 1** | [/boj/boj_2438.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2438.cpp) | [https://boj.kr/2438](https://www.acmicpc.net/problem/2438) |
 
 ## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
 | No | nypc | Solution Link | Problem Link |
