@@ -1,3 +1,10 @@
+"""
+문제 링크 : https://acmicpc.net/problem/2441
+
+code by Song Kitae(DKSH)
+"""
+
+
 if __name__ == "__main__":
     x = int(input())
     for i in range(x + 1):
