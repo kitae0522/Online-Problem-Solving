@@ -44,6 +44,7 @@
 |40| **별 찍기 - 3** | [/boj/boj_2440.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2440.py) | [https://boj.kr/2440](https://www.acmicpc.net/problem/2440) |
 |41| **별 찍기 - 4** | [/boj/boj_2441.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2441.py) | [https://boj.kr/2441](https://www.acmicpc.net/problem/2441) |
 |42| **별 찍기 - 5** | [/boj/boj_2442.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2442.py) | [https://boj.kr/2442](https://www.acmicpc.net/problem/2442) |
+|43| **별 찍기 - 9** | [/boj/boj_2446.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2446.py) | [https://boj.kr/2446](https://www.acmicpc.net/problem/2446) |
 
 ## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
 | No | nypc | Solution Link | Problem Link |
