@@ -1,3 +1,10 @@
+/*
+문제 링크 : https://acmicpc.net/problem/2438
+
+code by Song Kitae
+*/
+
+
 #include <stdio.h>
 
 int main() {
