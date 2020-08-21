@@ -52,3 +52,8 @@
 |1| **최대 HP** | [/nypc/2019/2019_3.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_3.py) | [https://nypc.github.io/2019/2019_online_3.html](https://nypc.github.io/2019/2019_online_3.html) |
 |2| **요리 제작** | [/nypc/2019/2019_4.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_4.py) | [https://nypc.github.io/2019/2019_online_4.html](https://nypc.github.io/2019/2019_online_4.html) |
 |3| **요리 제작** | [/nypc/2019/2019_4.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_4.cpp) | [https://nypc.github.io/2019/2019_online_4.html](https://nypc.github.io/2019/2019_online_4.html) |
+
+## 3️⃣ Leet Code Problem
+| No | nypc | Solution Link | Problem Link |
+|:----------|:----------:|:----------:|----------:|
+|1| **LRU Cache** | [Kitae's LRU_Cache.repo](https://github.com/kitae0522/LRU_Cache/blob/master/LRUCache.py) | [https://leetcode.com/problems/lru-cache/](https://leetcode.com/problems/lru-cache/) |
