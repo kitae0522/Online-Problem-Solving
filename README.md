@@ -67,4 +67,4 @@
 
 | No   |         DKSH         |                                                        Solution Link                                                         |                                                 Problem Link |
 | :--- | :------------------: | :--------------------------------------------------------------------------------------------------------------------------: | -----------------------------------------------------------: |
-| 1    | **최소 회의실 개수** | [/School_Problem/boj_19598.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/School_Problem/boj_19598.cpp) | [http://boj.kr/19598](https://www.acmicpc.net/problem/19598) |
+| 1    | **최소 회의실 개수** | [/School_Problem/boj_19598.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/School_Problem/boj_19598.cpp) | [http://boj.kr/19598](https://www.acmicpc.net/problem/19598) |
