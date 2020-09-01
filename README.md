@@ -51,11 +51,15 @@
 
 ## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
 
-| No   |     nypc      |                                                 Solution Link                                                 |                                                                                     Problem Link |
-| :--- | :-----------: | :-----------------------------------------------------------------------------------------------------------: | -----------------------------------------------------------------------------------------------: |
-| 1    |  **최대 HP**  |  [/nypc/2019/2019_3.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_3.py)  | [https://nypc.github.io/2019/2019_online_3.html](https://nypc.github.io/2019/2019_online_3.html) |
-| 2    | **요리 제작** |  [/nypc/2019/2019_4.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_4.py)  | [https://nypc.github.io/2019/2019_online_4.html](https://nypc.github.io/2019/2019_online_4.html) |
-| 3    | **요리 제작** | [/nypc/2019/2019_4.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_4.cpp) | [https://nypc.github.io/2019/2019_online_4.html](https://nypc.github.io/2019/2019_online_4.html) |
+| No   |              nypc               |                                                 Solution Link                                                 |                                                                                     Problem Link |
+| :--- | :-----------------------------: | :-----------------------------------------------------------------------------------------------------------: | -----------------------------------------------------------------------------------------------: |
+| 1    |           **최대 HP**           |  [/nypc/2019/2019_3.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_3.py)  | [https://nypc.github.io/2019/2019_online_3.html](https://nypc.github.io/2019/2019_online_3.html) |
+| 2    |          **요리 제작**          |  [/nypc/2019/2019_4.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_4.py)  | [https://nypc.github.io/2019/2019_online_4.html](https://nypc.github.io/2019/2019_online_4.html) |
+| 3    |          **요리 제작**          | [/nypc/2019/2019_4.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_4.cpp) | [https://nypc.github.io/2019/2019_online_4.html](https://nypc.github.io/2019/2019_online_4.html) |
+| 4    |           **S OR T**            |  [/nypc/2020/2020_4.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2020/2020_4.py)  |                   [https://contest.nypc.co.kr/problems/4](https://contest.nypc.co.kr/problems/4) |
+| 5    |    **카트라이더 별 모으기**     |  [/nypc/2020/2020_5.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2020/2020_5.py)  |                   [https://contest.nypc.co.kr/problems/5](https://contest.nypc.co.kr/problems/5) |
+| 6    | **스피드전 할까 아이템전 할까** |  [/nypc/2020/2020_6.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2020/2020_6.py)  |                   [https://contest.nypc.co.kr/problems/6](https://contest.nypc.co.kr/problems/6) |
+| 7    |         **난센스 퀴즈**         | [/nypc/2020/2020_10.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2020/2020_10.py) |                 [https://contest.nypc.co.kr/problems/10](https://contest.nypc.co.kr/problems/10) |
 
 ## 3️⃣ Leet Code Problem
 
@@ -65,6 +69,6 @@
 
 ## 4️⃣ DKSH Problem
 
-| No   |         DKSH         |                                                        Solution Link                                                         |                                                 Problem Link |
-| :--- | :------------------: | :--------------------------------------------------------------------------------------------------------------------------: | -----------------------------------------------------------: |
+| No   |         DKSH         |                                                         Solution Link                                                         |                                                 Problem Link |
+| :--- | :------------------: | :---------------------------------------------------------------------------------------------------------------------------: | -----------------------------------------------------------: |
 | 1    | **최소 회의실 개수** | [/School_Problem/boj_19598.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/School_Problem/boj_19598.cpp) | [http://boj.kr/19598](https://www.acmicpc.net/problem/19598) |
