@@ -73,3 +73,4 @@
 | No   |         DKSH         |                                                         Solution Link                                                         |                                                 Problem Link |
 | :--- | :------------------: | :---------------------------------------------------------------------------------------------------------------------------: | -----------------------------------------------------------: |
 | 1    | **최소 회의실 개수** | [/School_Problem/boj_19598.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/School_Problem/boj_19598.cpp) | [http://boj.kr/19598](https://www.acmicpc.net/problem/19598) |
+| 2    | **이진 삼진 탐색 놀이 1** | [/School_Problem/boj_19599.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/School_Problem/boj_19599.cpp) | [http://boj.kr/19599](https://www.acmicpc.net/problem/19599) |
