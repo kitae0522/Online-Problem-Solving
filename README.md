@@ -54,6 +54,7 @@
 | 48   |         **핸드폰 요금**         |   [/boj/boj_1267.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1267.cpp)   |   [http://boj.kr/1267](https://www.acmicpc.net/problem/1267  ) |
 | 49   |         **나누기**         |   [/boj/boj_1075.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1075.cpp)   |   [http://boj.kr/1075](https://www.acmicpc.net/problem/1075  ) |
 | 50   |         **막대기**         |   [/boj/boj_1094.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1094.cpp)   |   [http://boj.kr/1094](https://www.acmicpc.net/problem/1094  ) |
+| 51   |         **대표 자연수**         |   [/boj/boj_2548.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2548.cpp)   |   [http://boj.kr/2548](https://www.acmicpc.net/problem/2548  ) |
 
 ## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
 
