@@ -59,7 +59,6 @@
 | 53   |         **두 로봇**         |   [/boj/boj_15971.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_15971.cpp)   |   [http://boj.kr/15971](https://www.acmicpc.net/problem/15971  ) |
 | 54   |         **하얀 칸**         |   [/boj/boj_1100.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1100.py)   |   [http://boj.kr/1100](https://www.acmicpc.net/problem/1100  ) |
 | 55   |         **공**         |   [/boj/boj_1547.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1547.py)   |   [http://boj.kr/1547](https://www.acmicpc.net/problem/1547  ) |
-| 56   |         **이진 삼진 탐색 놀이 3**         |   [/boj/boj_19601.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_19601.cpp)   |   [http://boj.kr/19601](https://www.acmicpc.net/problem/19601  ) |
 
 ## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
 
@@ -85,3 +84,4 @@
 | :--- | :------------------: | :---------------------------------------------------------------------------------------------------------------------------: | -----------------------------------------------------------: |
 | 1    | **최소 회의실 개수** | [/School_Problem/boj_19598.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/School_Problem/boj_19598.cpp) | [http://boj.kr/19598](https://www.acmicpc.net/problem/19598) |
 | 2    | **이진 삼진 탐색 놀이 1** | [/School_Problem/boj_19599.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/School_Problem/boj_19599.cpp) | [http://boj.kr/19599](https://www.acmicpc.net/problem/19599) |
+| 3   |         **이진 삼진 탐색 놀이 3**         |   [/School_Problem/boj_19601.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/School_Problem/boj_19601.cpp)   |   [http://boj.kr/19601](https://www.acmicpc.net/problem/19601  ) |
