@@ -57,6 +57,9 @@
 | 51   |         **대표 자연수**         |   [/boj/boj_2548.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2548.cpp)   |   [http://boj.kr/2548](https://www.acmicpc.net/problem/2548  ) |
 | 52   |         **유기농 배추**         |   [/boj/boj_1012.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1012.cpp)   |   [http://boj.kr/1012](https://www.acmicpc.net/problem/1012  ) |
 | 53   |         **두 로봇**         |   [/boj/boj_15971.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_15971.cpp)   |   [http://boj.kr/15971](https://www.acmicpc.net/problem/15971  ) |
+| 54   |         **하얀 칸**         |   [/boj/boj_1100.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1100.py)   |   [http://boj.kr/1100](https://www.acmicpc.net/problem/1100  ) |
+| 55   |         **공**         |   [/boj/boj_1547.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1547.py)   |   [http://boj.kr/1547](https://www.acmicpc.net/problem/1547  ) |
+| 56   |         **이진 삼진 탐색 놀이 3**         |   [/boj/boj_19601.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_19601.cpp)   |   [http://boj.kr/19601](https://www.acmicpc.net/problem/19601  ) |
 
 ## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
 
