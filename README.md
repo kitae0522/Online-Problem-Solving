@@ -59,7 +59,9 @@
 | 53   |         **두 로봇**         |   [/boj/boj_15971.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_15971.cpp)   |   [http://boj.kr/15971](https://www.acmicpc.net/problem/15971  ) |
 | 54   |         **하얀 칸**         |   [/boj/boj_1100.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1100.py)   |   [http://boj.kr/1100](https://www.acmicpc.net/problem/1100  ) |
 | 55   |         **공**         |   [/boj/boj_1547.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1547.py)   |   [http://boj.kr/1547](https://www.acmicpc.net/problem/1547  ) |
-| 56   |         **돌 게임 6**         |   [/boj/boj_9660.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_9660.cpp)   |   [http://boj.kr/966-](https://www.acmicpc.net/problem/9660  ) |
+| 56   |         **돌 게임 6**         |   [/boj/boj_9660.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_9660.cpp)   |   [http://boj.kr/9660](https://www.acmicpc.net/problem/9660  ) |
+| 57   |         **다리 놓기**         |   [/boj/boj_1010.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1010.cpp)   |   [http://boj.kr/1010](https://www.acmicpc.net/problem/1010  ) |
+| 58   |         **Fly me to the Alpha Centauri**         |   [/boj/boj_1011.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1011.cpp)   |   [http://boj.kr/1011](https://www.acmicpc.net/problem/1011  ) |
 
 ## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
 
