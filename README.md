@@ -62,7 +62,7 @@
 | 56   |         **돌 게임 6**         |   [/boj/boj_9660.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_9660.cpp)   |   [http://boj.kr/9660](https://www.acmicpc.net/problem/9660  ) |
 | 57   |         **다리 놓기**         |   [/boj/boj_1010.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1010.cpp)   |   [http://boj.kr/1010](https://www.acmicpc.net/problem/1010  ) |
 | 58   |         **Fly me to the Alpha Centauri**         |   [/boj/boj_1011.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1011.cpp)   |   [http://boj.kr/1011](https://www.acmicpc.net/problem/1011  ) |
-| 59   |         **요세푸스 문제 0**         |   [/boj/boj_11866.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_11866.py)   |   [http://boj.kr/11866](https://www.acmicpc.net/problem/11866  ) |
+| 59   |         **요세푸스 문제 0**         |   [/boj/boj_11866.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_11866.cpp)   |   [http://boj.kr/11866](https://www.acmicpc.net/problem/11866  ) |
 
 ## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
 
