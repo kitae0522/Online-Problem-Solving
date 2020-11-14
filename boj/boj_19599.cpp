@@ -1,10 +1,3 @@
-/*
-문제 링크 : http://boj.kr/19599
-
-code by Song Kitae(DKSH)
-*/
-
-
 #include <iostream>
 #include <vector>
 using namespace std;
