@@ -98,6 +98,7 @@
 |11727|**2×n 타일링 2**|[/boj/boj_11727.cpp](https://github.com/kitae0522/test/blob/master/boj/boj_11727.cpp)|[http://boj.kr/11727](https://www.acmicpc.net/problem/11727)|2020년 6월 28일 18시 57분 49초|
 |11729|**하노이 탑 이동 순서**|[/boj/boj_11729.cpp](https://github.com/kitae0522/test/blob/master/boj/boj_11729.cpp)|[http://boj.kr/11729](https://www.acmicpc.net/problem/11729)|2020년 7월 2일 10시 47분 44초|
 |11866|**요세푸스 문제 0**|[/boj/boj_11866.cpp](https://github.com/kitae0522/test/blob/master/boj/boj_11866.cpp)|[http://boj.kr/11866](https://www.acmicpc.net/problem/11866)|2020년 11월 12일 10시 00분 21초|
+|12096|****|[/boj/boj_12096.py](https://github.com/kitae0522/test/blob/master/boj/boj_12096.py)|[http://boj.kr/12096](https://www.acmicpc.net/problem/12096)|2020년 11월 16일 10시 24분 00초|
 |14563|**완전수**|[/boj/boj_14563.py](https://github.com/kitae0522/test/blob/master/boj/boj_14563.py)|[http://boj.kr/14563](https://www.acmicpc.net/problem/14563)|2019년 3월 23일 10시 13분 39초|
 |14645|**와이버스 부릉부릉**|[/boj/boj_14645.py](https://github.com/kitae0522/test/blob/master/boj/boj_14645.py)|[http://boj.kr/14645](https://www.acmicpc.net/problem/14645)|2020년 11월 14일 21시 45분 33초|
 |14681|**사분면 고르기**|[/boj/boj_14681.py](https://github.com/kitae0522/test/blob/master/boj/boj_14681.py)|[http://boj.kr/14681](https://www.acmicpc.net/problem/14681)|2020년 5월 15일 11시 50분 10초|
