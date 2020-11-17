@@ -121,7 +121,7 @@ if __name__ == "__main__":
     """
     ab = AutoBoj({"git_name": "kitae0522",
                   "git_email": "kitae0522@naver.com",
-                  "git_repo": "https://github.com/kitae0522/Online-Problem-Solving",
+                  "git_repo": "https://github.com/kitae0522/test",
                   "boj_name": "kitae0522"})
     ab.set_up_git()
     ab.check_file()
