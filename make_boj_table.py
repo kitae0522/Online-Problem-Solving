@@ -24,6 +24,7 @@ class AutoBoj:
     def set_up_git(self):
         script = [f'git config --global user.name "{self.git_name}"',
                   f'git config --global user.email "{self.git_email}"',
+                  f'git add .',
                   'cls']
         for i in script:
             os.system(i)
@@ -62,9 +63,12 @@ class AutoBoj:
             if i % 2 == 0:
                 problem_number = li[i].text
                 problem_title = li[i+1].text
-                status = load_data_status(problem_number)
-                if li[i]:
+                if not solved_problems_DB.loc[1, problem_number]:
+                    status = load_data_status(problem_number)
                     data_set[problem_number] = [problem_title, status[1]]
+                if li[i]:
+                    data_set[problem_number] = [problem_title,
+                                                solved_problems_DB.loc[1, problem_number]]
         df = pd.DataFrame.from_dict(data_set)
         df.to_csv("solved_problems.csv")
 
@@ -121,7 +125,7 @@ if __name__ == "__main__":
     """
     ab = AutoBoj({"git_name": "kitae0522",
                   "git_email": "kitae0522@naver.com",
-                  "git_repo": "https://github.com/kitae0522/test",
+                  "git_repo": "https://github.com/kitae0522/Online-Problem-Solving",
                   "boj_name": "kitae0522"})
     ab.set_up_git()
     ab.check_file()
