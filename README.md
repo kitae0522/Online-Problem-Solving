@@ -23,6 +23,7 @@
 |1547|**공**|[/boj/boj_1547.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1547.py)|[http://boj.kr/1547](https://www.acmicpc.net/problem/1547)|2020년 11월 1일 16시 39분 52초|
 |1550|**16진수**|[/boj/boj_1550.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1550.py)|[http://boj.kr/1550](https://www.acmicpc.net/problem/1550)|2020년 10월 26일 23시 07분 49초|
 |1712|**손익분기점**|[/boj/boj_1712.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1712.cpp)|[http://boj.kr/1712](https://www.acmicpc.net/problem/1712)|2020년 7월 9일 0시 52분 02초|
+|1747|**소수&팰린드롬**|[/boj/boj_1747.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1747.py)|[http://boj.kr/1747](https://www.acmicpc.net/problem/1747)|2020년 11월 18일 0시 28분 41초|
 |1924|**2007년**|[/boj/boj_1924.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1924.py)|[http://boj.kr/1924](https://www.acmicpc.net/problem/1924)|2019년 3월 16일 20시 45분 31초|
 |1929|**소수 구하기**|[/boj/boj_1929.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1929.py)|[http://boj.kr/1929](https://www.acmicpc.net/problem/1929)|2020년 7월 23일 1시 09분 29초|
 |1934|**최소공배수**|[/boj/boj_1934.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1934.py)|[http://boj.kr/1934](https://www.acmicpc.net/problem/1934)|2019년 3월 23일 9시 45분 36초|

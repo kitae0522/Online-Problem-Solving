@@ -63,12 +63,9 @@ class AutoBoj:
             if i % 2 == 0:
                 problem_number = li[i].text
                 problem_title = li[i+1].text
-                if not solved_problems_DB.loc[1, problem_number]:
-                    status = load_data_status(problem_number)
-                    data_set[problem_number] = [problem_title, status[1]]
+                status = load_data_status(problem_number)
                 if li[i]:
-                    data_set[problem_number] = [problem_title,
-                                                solved_problems_DB.loc[1, problem_number]]
+                    data_set[problem_number] = [problem_title, status[1]]
         df = pd.DataFrame.from_dict(data_set)
         df.to_csv("solved_problems.csv")
 
