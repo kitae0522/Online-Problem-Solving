@@ -10,10 +10,14 @@
 |1110|**더하기 사이클**|[/boj/boj_1110.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1110.py)|[http://boj.kr/1110](https://www.acmicpc.net/problem/1110)|2020년 6월 18일 23시 52분 14초|
 |1152|**단어의 개수**|[/boj/boj_1152.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1152.py)|[http://boj.kr/1152](https://www.acmicpc.net/problem/1152)|2019년 3월 16일 20시 39분 17초|
 |1157|**단어 공부**|[/boj/boj_1157.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1157.py)|[http://boj.kr/1157](https://www.acmicpc.net/problem/1157)|2020년 7월 19일 16시 08분 40초|
+|1212|**8진수 2진수**|[/boj/boj_1212.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1212.py)|[http://boj.kr/1212](https://www.acmicpc.net/problem/1212)|2020년 11월 18일 15시 44분 51초|
 |1237|**정ㅋ벅ㅋ**|[/boj/boj_1237.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1237.cpp)|[http://boj.kr/1237](https://www.acmicpc.net/problem/1237)|2020년 3월 7일 19시 08분 14초|
+|1252|**이진수 덧셈**|[/boj/boj_1252.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1252.py)|[http://boj.kr/1252](https://www.acmicpc.net/problem/1252)|2020년 11월 18일 22시 49분 13초|
+|1259|**팰린드롬수**|[/boj/boj_1259.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1259.py)|[http://boj.kr/1259](https://www.acmicpc.net/problem/1259)|2020년 11월 18일 22시 59분 24초|
 |1260|**DFS와 BFS**|[/boj/boj_1260.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1260.cpp)|[http://boj.kr/1260](https://www.acmicpc.net/problem/1260)|2020년 7월 3일 10시 27분 43초|
 |1292|**쉽게 푸는 문제**|[/boj/boj_1292.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1292.py)|[http://boj.kr/1292](https://www.acmicpc.net/problem/1292)|2020년 7월 10일 12시 00분 46초|
 |1330|**두 수 비교하기**|[/boj/boj_1330.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1330.cpp)|[http://boj.kr/1330](https://www.acmicpc.net/problem/1330)|2020년 5월 24일 23시 46분 30초|
+|1357|**뒤집힌 덧셈**|[/boj/boj_1357.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1357.py)|[http://boj.kr/1357](https://www.acmicpc.net/problem/1357)|2020년 11월 18일 22시 35분 32초|
 |1373|**2진수 8진수**|[/boj/boj_1373.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1373.py)|[http://boj.kr/1373](https://www.acmicpc.net/problem/1373)|2020년 11월 5일 10시 13분 12초|
 |1436|**영화감독 숌**|[/boj/boj_1436.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1436.py)|[http://boj.kr/1436](https://www.acmicpc.net/problem/1436)|2020년 7월 4일 11시 54분 15초|
 |1547|**공**|[/boj/boj_1547.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_1547.py)|[http://boj.kr/1547](https://www.acmicpc.net/problem/1547)|2020년 11월 1일 16시 39분 52초|
@@ -32,6 +36,7 @@
 |2441|**별 찍기 - 4**|[/boj/boj_2441.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2441.py)|[http://boj.kr/2441](https://www.acmicpc.net/problem/2441)|2019년 3월 30일 9시 56분 23초|
 |2442|**별 찍기 - 5**|[/boj/boj_2442.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2442.py)|[http://boj.kr/2442](https://www.acmicpc.net/problem/2442)|2020년 7월 30일 15시 40분 05초|
 |2446|**별 찍기 - 9**|[/boj/boj_2446.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2446.py)|[http://boj.kr/2446](https://www.acmicpc.net/problem/2446)|2020년 6월 19일 0시 03분 27초|
+|2475|**검증수**|[/boj/boj_2475.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2475.cpp)|[http://boj.kr/2475](https://www.acmicpc.net/problem/2475)|2020년 11월 18일 15시 42분 42초|
 |2522|**별 찍기 - 12**|[/boj/boj_2522.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2522.py)|[http://boj.kr/2522](https://www.acmicpc.net/problem/2522)|2020년 6월 14일 16시 19분 32초|
 |2523|**별 찍기 - 13**|[/boj/boj_2523.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2523.py)|[http://boj.kr/2523](https://www.acmicpc.net/problem/2523)|2020년 6월 19일 0시 00분 17초|
 |2548|**대표 자연수**|[/boj/boj_2548.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2548.cpp)|[http://boj.kr/2548](https://www.acmicpc.net/problem/2548)|2020년 10월 21일 22시 07분 17초|

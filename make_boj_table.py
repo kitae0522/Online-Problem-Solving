@@ -65,7 +65,8 @@ class AutoBoj:
                 problem_title = li[i+1].text
 
                 try:
-                    data_set[problem_number] = [problem_title, solved_problems_DB.loc[1, problem_number]]
+                    data_set[problem_number] = [problem_title,
+                                                solved_problems_DB.loc[1, problem_number]]
                 except KeyError:
                     status = load_data_status(problem_number)
                     if li[i]:
