@@ -89,6 +89,7 @@
 |10950|**A+B - 3**|[/boj/boj_10950.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10950.py)|[http://boj.kr/10950](https://www.acmicpc.net/problem/10950)|2019년 7월 13일 19시 00분 57초|
 |10951|**A+B - 4**|[/boj/boj_10951.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10951.py)|[http://boj.kr/10951](https://www.acmicpc.net/problem/10951)|2019년 7월 13일 19시 24분 30초|
 |10952|**A+B - 5**|[/boj/boj_10952.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10952.py)|[http://boj.kr/10952](https://www.acmicpc.net/problem/10952)|2019년 7월 13일 19시 34분 07초|
+|10953|**A+B - 6**|[/boj/boj_10953.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10953.cpp)|[http://boj.kr/10953](https://www.acmicpc.net/problem/10953)|2020년 11월 18일 10시 55분 04초|
 |10989|**수 정렬하기 3**|[/boj/boj_10989.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10989.cpp)|[http://boj.kr/10989](https://www.acmicpc.net/problem/10989)|2020년 7월 3일 13시 25분 30초|
 |10996|**별 찍기 - 21**|[/boj/boj_10996.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10996.cpp)|[http://boj.kr/10996](https://www.acmicpc.net/problem/10996)|2020년 6월 24일 12시 36분 32초|
 |10998|**A×B**|[/boj/boj_10998.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_10998.cpp)|[http://boj.kr/10998](https://www.acmicpc.net/problem/10998)|2020년 5월 24일 22시 35분 17초|
