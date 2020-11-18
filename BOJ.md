@@ -59,6 +59,7 @@
 |3052|**나머지**|[/boj/boj_3052.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_3052.py)|[http://boj.kr/3052](https://www.acmicpc.net/problem/3052)|2020년 10월 29일 10시 54분 53초|
 |4344|**평균은 넘겠지**|[/boj/boj_4344.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_4344.py)|[http://boj.kr/4344](https://www.acmicpc.net/problem/4344)|2020년 5월 15일 0시 12분 38초|
 |5338|**마이크로소프트 로고**|[/boj/boj_5338.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_5338.py)|[http://boj.kr/5338](https://www.acmicpc.net/problem/5338)|2020년 10월 26일 23시 08분 38초|
+|5522|**카드 게임**|[/boj/boj_5522.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_5522.cpp)|[http://boj.kr/5522](https://www.acmicpc.net/problem/5522)|2020년 11월 18일 15시 31분 01초|
 |5543|**상근날드**|[/boj/boj_5543.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_5543.py)|[http://boj.kr/5543](https://www.acmicpc.net/problem/5543)|2020년 5월 14일 23시 58분 12초|
 |6156|**Cow Contest**|[/boj/boj_6156.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_6156.cpp)|[http://boj.kr/6156](https://www.acmicpc.net/problem/6156)|2020년 6월 29일 14시 30분 18초|
 |7287|**등록**|[/boj/boj_7287.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_7287.py)|[http://boj.kr/7287](https://www.acmicpc.net/problem/7287)|2019년 5월 12일 12시 04분 02초|

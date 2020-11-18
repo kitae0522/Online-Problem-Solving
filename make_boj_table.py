@@ -63,9 +63,13 @@ class AutoBoj:
             if i % 2 == 0:
                 problem_number = li[i].text
                 problem_title = li[i+1].text
-                status = load_data_status(problem_number)
-                if li[i]:
-                    data_set[problem_number] = [problem_title, status[1]]
+
+                try:
+                    data_set[problem_number] = [problem_title, solved_problems_DB.loc[1, problem_number]]
+                except KeyError:
+                    status = load_data_status(problem_number)
+                    if li[i]:
+                        data_set[problem_number] = [problem_title, status[1]]
         df = pd.DataFrame.from_dict(data_set)
         df.to_csv("solved_problems.csv")
 
@@ -90,13 +94,13 @@ class AutoBoj:
     def commit(self):
         print("If you want commit?(Y/N)")
         cmd = input("> ")
-        if cmd == "Y" or cmd == "y":
+        if cmd == "Y" or cmd == "y" or cmd == "Yes" or cmd == "yes":
             script = ['git pull', 'git add --all',
                       f'git commit -m "{commit_message}"', 'git push origin', 'cls']
             for i in script:
                 os.system(i)
             print("Complete. Relaunching...")
-        elif cmd == "N" or cmd == "n":
+        elif cmd == "N" or cmd == "n" or cmd == "No" or cmd == "no":
             print("Ok.")
         os.system(f"TIMEOUT {SECONDS_IN_A_DAY}")
         AutoBoj.check_file(self)
