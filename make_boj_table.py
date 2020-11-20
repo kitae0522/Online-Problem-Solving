@@ -115,7 +115,7 @@ if __name__ == "__main__":
     if there is a commit message you want,
     please correct it here.
     """
-    commit_message = "update"
+    commit_message = "✨[경축] 송기태 201121 골드 5 달성✨"
 
     """
     And these are the things you need to set up.
