@@ -35,8 +35,8 @@ class AutoBoj:
         for i in file_list:
             try:
                 solved_problems_DB.loc[0, os.path.splitext(i)[0][4:]]
-                file_name_extension[os.path.splitext(i)[0]] = "cpp" if os.path.splitext(i)[1] == ".cpp" else "py" if os.path.splitext(i)[
-                    1] == ".py" else "java" if os.path.splitext(i)[1] == ".java" else "None"
+                file_name_extension[os.path.splitext(i)[0]] = "c" if os.path.splitext(i)[1] == ".c" else "cpp" if os.path.splitext(i)[1] == ".cpp" else "py" if os.path.splitext(i)[
+                    1] == ".py" else "java" if os.path.splitext(i)[1] == ".java" else "go" if os.path.splitext(i)[1] == ".go" else "txt" if os.path.splitext(i)[1] == ".txt" else"None"
             except KeyError:
                 continue
 
@@ -81,8 +81,8 @@ class AutoBoj:
             file.write(title)
             for number in data_set:
                 try:
-                    extension = "cpp" if file_name_extension["boj_"+number] == "cpp" else "py" if file_name_extension["boj_" +
-                                                                                                                      number] == "py" else "java" if file_name_extension["boj_"+number] == "java" else "None"
+                    extension = "c" if file_name_extension["boj_"+number] == "c" else "cpp" if file_name_extension["boj_"+number] == "cpp" else "py" if file_name_extension["boj_" +
+                                                                                                                                                                            number] == "py" else "java" if file_name_extension["boj_"+number] == "java" else "go" if file_name_extension["boj_"+number] == "go" else "txt" if file_name_extension["boj_"+number] == "txt" else "None"
                 except KeyError:
                     print(
                         f"error: No.{number} File not found.\nPlease download the code from http://boj.kr/{number}.")
@@ -115,7 +115,7 @@ if __name__ == "__main__":
     if there is a commit message you want,
     please correct it here.
     """
-    commit_message = "✨[경축] 송기태 201121 골드 5 달성✨"
+    commit_message = "update"
 
     """
     And these are the things you need to set up.
