@@ -45,7 +45,7 @@ class AutoBoj:
         url = f"https://www.acmicpc.net/user/{self.boj_name}"
         html = req.get(url, headers=headers)
         soup = BeautifulSoup(html.content, 'html.parser')
-        li = soup.find("div", {"class": "panel-body"}).findAll("span")
+        li = soup.find("div", {"class": "panel-body"}).find_all("a")
 
         def load_data_status(problem_id):
             url = f"https://www.acmicpc.net/status?problem_id={problem_id}&user_id={self.boj_name}"
@@ -60,7 +60,7 @@ class AutoBoj:
                 return [scoring_num, data_original_title]
 
         for i in range(len(li)):
-            if i % 2 == 0:
+            if i % 2 != 0:
                 problem_number = li[i].text
                 problem_title = li[i+1].text
 
