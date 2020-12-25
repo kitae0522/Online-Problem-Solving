@@ -15,6 +15,9 @@ file_name_extension = {}
 
 
 class AutoBoj:
+
+    __VERSION__ = '1.0.2'
+
     def __init__(self, configure_obj):
         self.git_name = configure_obj["git_name"]
         self.git_email = configure_obj["git_email"]
@@ -54,23 +57,21 @@ class AutoBoj:
             table = soup.find(
                 "table", {"class": "table table-striped table-bordered"}).findAll("tbody")
             for i in table:
-                scoring_num = i.find("td").text
+                problem_title = i.find(
+                    "a", {"class": "problem_title"}).attrs["title"]
                 data_original_title = i.find(
                     "a", {"class": "real-time-update"}).attrs["title"]
-                return [scoring_num, data_original_title]
+                return [problem_title, data_original_title]
 
         for i in range(len(li)):
-            if i % 2 != 0:
-                problem_number = li[i].text
-                problem_title = li[i+1].text
-
-                try:
-                    data_set[problem_number] = [problem_title,
-                                                solved_problems_DB.loc[1, problem_number]]
-                except KeyError:
-                    status = load_data_status(problem_number)
-                    if li[i]:
-                        data_set[problem_number] = [problem_title, status[1]]
+            problem_number = li[i].text
+            try:
+                data_set[problem_number] = [solved_problems_DB.loc[0,
+                                                                   problem_number], solved_problems_DB.loc[1, problem_number]]
+            except KeyError:
+                status = load_data_status(problem_number)
+                problem_title, data_original_title = status[0], status[1]
+                data_set[problem_number] = [problem_title, data_original_title]
         df = pd.DataFrame.from_dict(data_set)
         df.to_csv("solved_problems.csv")
 
@@ -129,6 +130,7 @@ if __name__ == "__main__":
                   "git_email": "kitae0522@naver.com",
                   "git_repo": "https://github.com/kitae0522/Online-Problem-Solving",
                   "boj_name": "kitae0522"})
+    print(ab.__VERSION__)
     ab.set_up_git()
     ab.check_file()
     ab.crawl_user_data()
