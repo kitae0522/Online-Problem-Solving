@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import requests as req
 import pandas as pd
 import csv
+import datetime
 
 solved_problems_DB = pd.read_csv('solved_problems.csv')
 
@@ -61,7 +62,12 @@ class AutoBoj:
                     "a", {"class": "problem_title"}).attrs["title"]
                 data_original_title = i.find(
                     "a", {"class": "real-time-update"}).attrs["title"]
-                return [problem_title, data_original_title]
+                li = data_original_title.split()
+                [li.pop() for _ in range(3)]
+                datetime_object = datetime.datetime.strptime(
+                    " ".join(li), "%Y년 %m월 %d일")
+                date_title = (datetime_object.strftime("%Y-%m-%d"))
+                return [problem_title, date_title]
 
         for i in range(len(li)):
             problem_number = li[i].text
@@ -69,6 +75,7 @@ class AutoBoj:
                 data_set[problem_number] = [solved_problems_DB.loc[0,
                                                                    problem_number], solved_problems_DB.loc[1, problem_number]]
             except KeyError:
+                print(f"{i+1}/{len(li)+1}")
                 status = load_data_status(problem_number)
                 problem_title, data_original_title = status[0], status[1]
                 data_set[problem_number] = [problem_title, data_original_title]
@@ -78,8 +85,9 @@ class AutoBoj:
     def write_markdown(self):
         li = []
         with open("BOJ.md", "w", encoding="UTF8") as file:
-            title = f"""|No|Title|Solution Link|Problem Link|Last Solve|\n| :--: | :--: | :--: | :--: | :--: |\n"""
+            title = f"""|Index|No|Title|Solution Link|Problem Link|Last Solve|\n| :--: | :--: | :--: | :--: | :--: | :--: |\n"""
             file.write(title)
+            index = 1
             for number in data_set:
                 try:
                     extension = "c" if file_name_extension["boj_"+number] == "c" else "cpp" if file_name_extension["boj_"+number] == "cpp" else "py" if file_name_extension["boj_" +
@@ -89,7 +97,8 @@ class AutoBoj:
                         f"error: No.{number} File not found.\nPlease download the code from http://boj.kr/{number}.")
                     continue
                 li.append(
-                    f"""|{number}|**{data_set[number][0]}**|[/boj/boj_{number}.{extension}]({self.git_repo}/blob/master/boj/boj_{number}.{extension})|[http://boj.kr/{number}](https://www.acmicpc.net/problem/{number})|{data_set[number][1]}|\n""")
+                    f"""|{index}|{number}|**{data_set[number][0]}**|[/boj/boj_{number}.{extension}]({self.git_repo}/blob/master/boj/boj_{number}.{extension})|[http://boj.kr/{number}](https://www.acmicpc.net/problem/{number})|{data_set[number][1]}|\n""")
+                index += 1
             for i in li:
                 file.write(i)
 
