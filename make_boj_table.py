@@ -85,7 +85,7 @@ class AutoBoj:
     def write_markdown(self):
         li = []
         with open("BOJ.md", "w", encoding="UTF8") as file:
-            title = f"""|Index|No|Title|Solution Link|Problem Link|Last Solve|\n| :--: | :--: | :--: | :--: | :--: | :--: |\n"""
+            title = f"""|No|Title|Solution Link|Problem Link|Last Solve|\n| :--: | :--: | :--: | :--: | :--: |\n"""
             file.write(title)
             index = 1
             for number in data_set:
@@ -97,8 +97,7 @@ class AutoBoj:
                         f"error: No.{number} File not found.\nPlease download the code from http://boj.kr/{number}.")
                     continue
                 li.append(
-                    f"""|{index}|{number}|**{data_set[number][0]}**|[/boj/boj_{number}.{extension}]({self.git_repo}/blob/master/boj/boj_{number}.{extension})|[http://boj.kr/{number}](https://www.acmicpc.net/problem/{number})|{data_set[number][1]}|\n""")
-                index += 1
+                    f"""|{number}|**{data_set[number][0]}**|[/boj/boj_{number}.{extension}]({self.git_repo}/blob/master/boj/boj_{number}.{extension})|[http://boj.kr/{number}](https://www.acmicpc.net/problem/{number})|{data_set[number][1]}|\n""")
             for i in li:
                 file.write(i)
 
