@@ -66,7 +66,7 @@ class AutoBoj:
                 [li.pop() for _ in range(3)]
                 datetime_object = datetime.datetime.strptime(
                     " ".join(li), "%Y년 %m월 %d일")
-                date_title = (datetime_object.strftime("%Y-%m-%d"))
+                date_title = datetime_object.strftime("%y-%m-%d")
                 return [problem_title, date_title]
 
         for i in range(len(li)):
