@@ -85,7 +85,7 @@ class AutoBoj:
                       f'git commit -m "{commit_message}"', 'git push origin', 'clear']
             for i in script:
                 os.system(i)
-            print("Complete. Relaunching...")
+            print("Complete.")
         elif cmd == "N" or cmd == "n" or cmd == "No" or cmd == "no":
             print("Ok.")
 
