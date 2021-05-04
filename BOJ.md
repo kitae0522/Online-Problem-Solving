@@ -84,6 +84,7 @@
 |2902|**KMP는 왜 KMP일까?**|[/boj/boj_2902.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2902.py)|[http://boj.kr/2902](https://www.acmicpc.net/problem/2902)|
 |2908|**상수**|[/boj/boj_2908.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2908.py)|[http://boj.kr/2908](https://www.acmicpc.net/problem/2908)|
 |2920|**음계**|[/boj/boj_2920.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_2920.py)|[http://boj.kr/2920](https://www.acmicpc.net/problem/2920)|
+|3003|**킹, 퀸, 룩, 비숍, 나이트, 폰**|[/boj/boj_3003.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_3003.cpp)|[http://boj.kr/3003](https://www.acmicpc.net/problem/3003)|
 |3052|**나머지**|[/boj/boj_3052.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_3052.py)|[http://boj.kr/3052](https://www.acmicpc.net/problem/3052)|
 |4344|**평균은 넘겠지**|[/boj/boj_4344.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_4344.py)|[http://boj.kr/4344](https://www.acmicpc.net/problem/4344)|
 |4963|**섬의 개수**|[/boj/boj_4963.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/boj_4963.cpp)|[http://boj.kr/4963](https://www.acmicpc.net/problem/4963)|
