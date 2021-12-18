@@ -2,8 +2,7 @@
 
 ## 1️⃣ Baekjoon Online Judge
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kitae0522">
-<img src="http://mazandi.herokuapp.com/api?handle=kitae0522&theme=warm">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kitae0522"> <img src="http://mazandi.herokuapp.com/api?handle=kitae0522&theme=warm">
 
 |No|Title|Solution Link|Problem Link|
 | :--: | :--: | :--: | :--: |
