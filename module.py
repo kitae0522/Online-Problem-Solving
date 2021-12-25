@@ -7,16 +7,9 @@ class Make_BOJ_Table:
 
     def __init__(self, configure_obj: dict):
         self.git_name = configure_obj["git_name"]
-        self.git_email = configure_obj["git_email"]
         self.git_repo = configure_obj["git_repo"]
         self.boj_name = configure_obj["boj_name"]
         self.user_db = {}
-
-    def set_up_git(self):
-        script = [f'git config --global user.name "{self.git_name}"',
-                  f'git config --global user.email "{self.git_email}"']
-        for i in script:
-            os.system(i)
 
     def crawl_data(self):
         def req_url_handler(u_id: str, page_idx: int = 1) -> str:
@@ -115,14 +108,7 @@ class Make_BOJ_Table:
                 print(f'❎ 해결했지만, 파일이 없는 문제가 있습니다. : {content}')
         return return_string
 
-    def commit(self, commit_message):
-        script = [f'git add .',
-                  f'git commit -m "{commit_message}"']
-        for i in script:
-            os.system(i)
-
     def run(self, option):
-        self.set_up_git()
         self.crawl_data()
         self.check_file()
         with open(f'{os.getcwd()}/BOJ.md', 'w', encoding='UTF8') as file:
