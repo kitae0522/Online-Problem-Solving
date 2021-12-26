@@ -20,6 +20,7 @@
 | Gold 5 | 15971 | **두 로봇** | [/boj/15971.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/15971.cpp) | http://boj.kr/15971 |
 | Gold 5 | 19598 | **최소 회의실 개수** | [/boj/19598.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/19598.cpp) | http://boj.kr/19598 |
 | Gold 5 | 19601 | **이진 삼진 탐색 놀이 3** | [/boj/19601.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/19601.cpp) | http://boj.kr/19601 |
+| Silver 5 | 1743 | **음식물 피하기** | [/boj/1743.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1743.cpp) | http://boj.kr/1743 |
 | Silver 5 | 2667 | **단지번호붙이기** | [/boj/2667.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2667.cpp) | http://boj.kr/2667 |
 | Silver 2 | 1012 | **유기농 배추** | [/boj/1012.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1012.cpp) | http://boj.kr/1012 |
 | Silver 2 | 1260 | **DFS와 BFS** | [/boj/1260.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1260.cpp) | http://boj.kr/1260 |
@@ -28,6 +29,7 @@
 | Silver 2 | 1931 | **회의실 배정** | [/boj/1931.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1931.cpp) | http://boj.kr/1931 |
 | Silver 2 | 4963 | **섬의 개수** | [/boj/4963.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/4963.cpp) | http://boj.kr/4963 |
 | Silver 2 | 9659 | **돌 게임 5** | [/boj/9659.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/9659.py) | http://boj.kr/9659 |
+| Silver 2 | 11724 | **연결 요소의 개수** | [/boj/11724.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/11724.cpp) | http://boj.kr/11724 |
 | Silver 2 | 11729 | **하노이 탑 이동 순서** | [/boj/11729.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/11729.cpp) | http://boj.kr/11729 |
 | Silver 2 | 15965 | **K번째 소수** | [/boj/15965.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/15965.py) | http://boj.kr/15965 |
 | Silver 3 | 1003 | **피보나치 함수** | [/boj/1003.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1003.cpp) | http://boj.kr/1003 |
@@ -90,6 +92,7 @@
 | Bronze 2 | 1152 | **단어의 개수** | [/boj/1152.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1152.py) | http://boj.kr/1152 |
 | Bronze 2 | 1252 | **이진수 덧셈** | [/boj/1252.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1252.py) | http://boj.kr/1252 |
 | Bronze 2 | 1373 | **2진수 8진수** | [/boj/1373.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1373.py) | http://boj.kr/1373 |
+| Bronze 2 | 2309 | **일곱 난쟁이** | [/boj/2309.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2309.py) | http://boj.kr/2309 |
 | Bronze 2 | 2562 | **최댓값** | [/boj/2562.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2562.py) | http://boj.kr/2562 |
 | Bronze 2 | 2577 | **숫자의 개수** | [/boj/2577.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2577.py) | http://boj.kr/2577 |
 | Bronze 2 | 2675 | **문자열 반복** | [/boj/2675.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2675.py) | http://boj.kr/2675 |
@@ -188,10 +191,10 @@
 | :--: | :--: | :--: | :--: |
 |1|**최대 HP**|[/nypc/2019/2019_3.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_3.py)|[https://nypc.github.io/2019/2019_online_3.html](https://nypc.github.io/2019/2019_online_3.html)|
 |2|**요리 제작**|[/nypc/2019/2019_4.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_4.py)|[https://nypc.github.io/2019/2019_online_4.html](https://nypc.github.io/2019/2019_online_4.html)|
-|3|**S OR T**|[/nypc/2020/2020_4.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2020/2020_4.py)|[https://contest.nypc.co.kr/problems/4](https://contest.nypc.co.kr/problems/4)|
-|4|**카트라이더 별 모으기**|[/nypc/2020/2020_5.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2020/2020_5.py)|[https://contest.nypc.co.kr/problems/5](https://contest.nypc.co.kr/problems/5)|
-|5| **스피드전 할까 아이템전 할까**|[/nypc/2020/2020_6.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2020/2020_6.py)|[https://contest.nypc.co.kr/problems/6](https://contest.nypc.co.kr/problems/6)|
-|6|**난센스 퀴즈**|[/nypc/2020/2020_10.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2020/2020_10.py)|[https://contest.nypc.co.kr/problems/10](https://contest.nypc.co.kr/problems/10)|
+|3|**S OR T**|[/nypc/2020/2020_4.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2020/2020_4.py)|[https://nypc.github.io/2020/2020_online_4.html](https://nypc.github.io/2020/2020_online_4.html)|
+|4|**카트라이더 별 모으기**|[/nypc/2020/2020_5.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2020/2020_5.py)|[https://nypc.github.io/2020/2020_online_5.html](https://nypc.github.io/2020/2020_online_5.html)|
+|5| **스피드전 할까 아이템전 할까**|[/nypc/2020/2020_6.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2020/2020_6.py)|[https://nypc.github.io/2020/2020_online_6.html](https://nypc.github.io/2020/2020_online_6.html)|
+|6|**난센스 퀴즈**|[/nypc/2020/2020_10.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2020/2020_10.py)|[https://nypc.github.io/2020/2020_online_10.html](https://nypc.github.io/2020/2020_online_10.html)|
 
 ## 3️⃣ Leet Code Problem
 
