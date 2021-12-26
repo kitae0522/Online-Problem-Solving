@@ -3,6 +3,7 @@
 ## 1️⃣ Baekjoon Online Judge
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kitae0522"><img src="http://mazandi.herokuapp.com/api?handle=kitae0522&theme=warm">
+<h1 style="font-weight:600">kitae0522님이 푼 문제</h1>
 
 |Tier|No|Title|Solution Link|Problem Link|
 | :--: | :--: | :--: | :--: | :--: |
@@ -20,8 +21,8 @@
 | Gold 5 | 15971 | **두 로봇** | [/boj/15971.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/15971.cpp) | http://boj.kr/15971 |
 | Gold 5 | 19598 | **최소 회의실 개수** | [/boj/19598.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/19598.cpp) | http://boj.kr/19598 |
 | Gold 5 | 19601 | **이진 삼진 탐색 놀이 3** | [/boj/19601.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/19601.cpp) | http://boj.kr/19601 |
-| Silver 5 | 1743 | **음식물 피하기** | [/boj/1743.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1743.cpp) | http://boj.kr/1743 |
-| Silver 5 | 2667 | **단지번호붙이기** | [/boj/2667.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2667.cpp) | http://boj.kr/2667 |
+| Silver 1 | 1743 | **음식물 피하기** | [/boj/1743.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1743.cpp) | http://boj.kr/1743 |
+| Silver 1 | 2667 | **단지번호붙이기** | [/boj/2667.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2667.cpp) | http://boj.kr/2667 |
 | Silver 2 | 1012 | **유기농 배추** | [/boj/1012.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1012.cpp) | http://boj.kr/1012 |
 | Silver 2 | 1260 | **DFS와 BFS** | [/boj/1260.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1260.cpp) | http://boj.kr/1260 |
 | Silver 2 | 1912 | **연속합** | [/boj/1912.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1912.cpp) | http://boj.kr/1912 |
@@ -72,21 +73,21 @@
 | Silver 5 | 10989 | **수 정렬하기 3** | [/boj/10989.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/10989.cpp) | http://boj.kr/10989 |
 | Silver 5 | 11650 | **좌표 정렬하기** | [/boj/11650.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/11650.cpp) | http://boj.kr/11650 |
 | Silver 5 | 11653 | **소인수분해** | [/boj/11653.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/11653.py) | http://boj.kr/11653 |
-| Bronze 5 | 1110 | **더하기 사이클** | [/boj/1110.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1110.py) | http://boj.kr/1110 |
-| Bronze 5 | 1157 | **단어 공부** | [/boj/1157.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1157.py) | http://boj.kr/1157 |
-| Bronze 5 | 1259 | **팰린드롬수** | [/boj/1259.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1259.py) | http://boj.kr/1259 |
-| Bronze 5 | 1357 | **뒤집힌 덧셈** | [/boj/1357.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1357.py) | http://boj.kr/1357 |
-| Bronze 5 | 1546 | **평균** | [/boj/1546.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1546.py) | http://boj.kr/1546 |
-| Bronze 5 | 1924 | **2007년** | [/boj/1924.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1924.py) | http://boj.kr/1924 |
-| Bronze 5 | 2738 | **행렬 덧셈** | [/boj/2738.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2738.py) | http://boj.kr/2738 |
-| Bronze 5 | 2748 | **피보나치 수 2** | [/boj/2748.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2748.py) | http://boj.kr/2748 |
-| Bronze 5 | 2750 | **수 정렬하기** | [/boj/2750.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2750.py) | http://boj.kr/2750 |
-| Bronze 5 | 2839 | **설탕 배달** | [/boj/2839.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2839.py) | http://boj.kr/2839 |
-| Bronze 5 | 2869 | **달팽이는 올라가고 싶다** | [/boj/2869.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2869.cpp) | http://boj.kr/2869 |
-| Bronze 5 | 4344 | **평균은 넘겠지** | [/boj/4344.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/4344.py) | http://boj.kr/4344 |
-| Bronze 5 | 10798 | **세로읽기** | [/boj/10798.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/10798.py) | http://boj.kr/10798 |
-| Bronze 5 | 11719 | **그대로 출력하기 2** | [/boj/11719.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/11719.py) | http://boj.kr/11719 |
-| Bronze 5 | 12605 | **단어순서 뒤집기** | [/boj/12605.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/12605.py) | http://boj.kr/12605 |
+| Bronze 1 | 1110 | **더하기 사이클** | [/boj/1110.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1110.py) | http://boj.kr/1110 |
+| Bronze 1 | 1157 | **단어 공부** | [/boj/1157.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1157.py) | http://boj.kr/1157 |
+| Bronze 1 | 1259 | **팰린드롬수** | [/boj/1259.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1259.py) | http://boj.kr/1259 |
+| Bronze 1 | 1357 | **뒤집힌 덧셈** | [/boj/1357.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1357.py) | http://boj.kr/1357 |
+| Bronze 1 | 1546 | **평균** | [/boj/1546.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1546.py) | http://boj.kr/1546 |
+| Bronze 1 | 1924 | **2007년** | [/boj/1924.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1924.py) | http://boj.kr/1924 |
+| Bronze 1 | 2738 | **행렬 덧셈** | [/boj/2738.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2738.py) | http://boj.kr/2738 |
+| Bronze 1 | 2748 | **피보나치 수 2** | [/boj/2748.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2748.py) | http://boj.kr/2748 |
+| Bronze 1 | 2750 | **수 정렬하기** | [/boj/2750.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2750.py) | http://boj.kr/2750 |
+| Bronze 1 | 2839 | **설탕 배달** | [/boj/2839.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2839.py) | http://boj.kr/2839 |
+| Bronze 1 | 2869 | **달팽이는 올라가고 싶다** | [/boj/2869.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2869.cpp) | http://boj.kr/2869 |
+| Bronze 1 | 4344 | **평균은 넘겠지** | [/boj/4344.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/4344.py) | http://boj.kr/4344 |
+| Bronze 1 | 10798 | **세로읽기** | [/boj/10798.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/10798.py) | http://boj.kr/10798 |
+| Bronze 1 | 11719 | **그대로 출력하기 2** | [/boj/11719.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/11719.py) | http://boj.kr/11719 |
+| Bronze 1 | 12605 | **단어순서 뒤집기** | [/boj/12605.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/12605.py) | http://boj.kr/12605 |
 | Bronze 2 | 1075 | **나누기** | [/boj/1075.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1075.cpp) | http://boj.kr/1075 |
 | Bronze 2 | 1100 | **하얀 칸** | [/boj/1100.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1100.py) | http://boj.kr/1100 |
 | Bronze 2 | 1152 | **단어의 개수** | [/boj/1152.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1152.py) | http://boj.kr/1152 |
