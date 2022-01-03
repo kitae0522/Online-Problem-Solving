@@ -3,14 +3,13 @@
 ## 1️⃣ Baekjoon Online Judge
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kitae0522"><img src="http://mazandi.herokuapp.com/api?handle=kitae0522&theme=warm">
-<h1 style="font-weight:600">kitae0522님이 푼 문제</h1>
 
 |Tier|No|Title|Solution Link|Problem Link|
 | :--: | :--: | :--: | :--: | :--: |
 | Platinum 5 | 15311 | **약 팔기** | [/boj/15311.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/15311.cpp) | http://boj.kr/15311 |
 | Gold 2 | 1365 | **꼬인 전깃줄** | [/boj/1365.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1365.cpp) | http://boj.kr/1365 |
 | Gold 2 | 2142 | **정돈된 배열** | [/boj/2142.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2142.cpp) | http://boj.kr/2142 |
-| Gold 2 | 2749 | **피보나치 수 3** | [/boj/2749.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2749.py) | http://boj.kr/2749 |
+| Gold 2 | 2749 | **피보나치 수 3** | [/boj/2749.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2749.cpp) | http://boj.kr/2749 |
 | Gold 4 | 6156 | **Cow Contest** | [/boj/6156.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/6156.cpp) | http://boj.kr/6156 |
 | Gold 4 | 9935 | **문자열 폭발** | [/boj/9935.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/9935.py) | http://boj.kr/9935 |
 | Gold 4 | 17951 | **흩날리는 시험지 속에서 내 평점이 느껴진거야** | [/boj/17951.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/17951.cpp) | http://boj.kr/17951 |
