@@ -185,6 +185,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 14645 | **와이버스 부릉부릉** | [/boj/14645.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/14645.py) | http://boj.kr/14645 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 14681 | **사분면 고르기** | [/boj/14681.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/14681.py) | http://boj.kr/14681 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 15740 | **A+B - 9** | [/boj/15740.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/15740.py) | http://boj.kr/15740 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 25304 | **영수증** | [/boj/25304.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/25304.cpp) | http://boj.kr/25304 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/> | 1237 | **정ㅋ벅ㅋ** | [/boj/1237.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1237.cpp) | http://boj.kr/1237 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/> | 9999 | **구구** | [/boj/9999.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/9999.py) | http://boj.kr/9999 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/> | 12096 | **** | [/boj/12096.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/12096.py) | http://boj.kr/12096 |
