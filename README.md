@@ -30,6 +30,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 11660 | **구간 합 구하기 5** | [/boj/11660.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/11660.cpp) | http://boj.kr/11660 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 11729 | **하노이 탑 이동 순서** | [/boj/11729.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/11729.cpp) | http://boj.kr/11729 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 17939 | **Gazzzua** | [/boj/17939.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/17939.cpp) | http://boj.kr/17939 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 27973 | **지연 평가** | [/boj/27973.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/27973.cpp) | http://boj.kr/27973 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 1012 | **유기농 배추** | [/boj/1012.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1012.cpp) | http://boj.kr/1012 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 1260 | **DFS와 BFS** | [/boj/1260.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1260.cpp) | http://boj.kr/1260 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 1874 | **스택 수열** | [/boj/1874.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1874.cpp) | http://boj.kr/1874 |
@@ -50,6 +51,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 27496 | **발머의 피크 이론** | [/boj/27496.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/27496.cpp) | http://boj.kr/27496 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 1158 | **요세푸스 문제** | [/boj/1158.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1158.cpp) | http://boj.kr/1158 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 1920 | **수 찾기** | [/boj/1920.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1920.cpp) | http://boj.kr/1920 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 2164 | **카드2** | [/boj/2164.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2164.cpp) | http://boj.kr/2164 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 2839 | **설탕 배달** | [/boj/2839.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2839.py) | http://boj.kr/2839 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 9012 | **괄호** | [/boj/9012.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/9012.py) | http://boj.kr/9012 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 9656 | **돌 게임 2** | [/boj/9656.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/9656.cpp) | http://boj.kr/9656 |
