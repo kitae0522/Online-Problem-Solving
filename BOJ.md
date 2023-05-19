@@ -56,6 +56,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 10845 | **큐** | [/boj/10845.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/10845.py) | http://boj.kr/10845 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 10866 | **덱** | [/boj/10866.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/10866.cpp) | http://boj.kr/10866 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 11399 | **ATM** | [/boj/11399.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/11399.py) | http://boj.kr/11399 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 25288 | **영어 시험** | [/boj/25288.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/25288.cpp) | http://boj.kr/25288 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1010 | **다리 놓기** | [/boj/1010.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1010.cpp) | http://boj.kr/1010 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1094 | **막대기** | [/boj/1094.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1094.cpp) | http://boj.kr/1094 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1181 | **단어 정렬** | [/boj/1181.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1181.cpp) | http://boj.kr/1181 |

@@ -15,7 +15,6 @@ class Make_BOJ_Table:
         def req_url_handler(u_id: str, page_idx: int = 1) -> str:
             return f'https://solved.ac/api/v3/search/problem?query=solved_by:{u_id}&page={page_idx}'
 
-
         def return_problem_img(p_level: int) -> str:
             return f'<img height="25px" width="25px" src="https://static.solved.ac/tier_small/{p_level}.svg"/>'
 
@@ -72,7 +71,8 @@ class Make_BOJ_Table:
     def render_table_item(self, option) -> str:
         sort_option, direction_option = option
         return_string = ''
-        write_by = dict(sorted(self.user_db.items(), reverse=direction_option, key=lambda x: x[1][0])) if sort_option == 'tier' else \
+        write_by = dict(
+            sorted(self.user_db.items(), reverse=direction_option, key=lambda x: x[1][0])) if sort_option == 'tier' else \
             dict(sorted(self.user_db.items(), reverse=direction_option))
 
         for content in write_by:
