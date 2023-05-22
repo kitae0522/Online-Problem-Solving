@@ -36,6 +36,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 11724 | **연결 요소의 개수** | [/boj/11724.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/11724.cpp) | http://boj.kr/11724 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 15965 | **K번째 소수** | [/boj/15965.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/15965.py) | http://boj.kr/15965 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1003 | **피보나치 함수** | [/boj/1003.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1003.cpp) | http://boj.kr/1003 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1463 | **1로 만들기** | [/boj/1463.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1463.cpp) | http://boj.kr/1463 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1929 | **소수 구하기** | [/boj/1929.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1929.py) | http://boj.kr/1929 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 2548 | **대표 자연수** | [/boj/2548.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2548.cpp) | http://boj.kr/2548 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 2606 | **바이러스** | [/boj/2606.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2606.cpp) | http://boj.kr/2606 |
