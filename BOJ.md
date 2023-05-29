@@ -130,6 +130,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 10996 | **별 찍기 - 21** | [/boj/10996.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/10996.cpp) | http://boj.kr/10996 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 14563 | **완전수** | [/boj/14563.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/14563.py) | http://boj.kr/14563 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 15596 | **정수 N개의 합** | [/boj/15596.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/15596.py) | http://boj.kr/15596 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 15829 | **Hashing** | [/boj/15829.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/15829.cpp) | http://boj.kr/15829 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 1267 | **핸드폰 요금** | [/boj/1267.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1267.cpp) | http://boj.kr/1267 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 1547 | **공** | [/boj/1547.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1547.py) | http://boj.kr/1547 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 2441 | **별 찍기 - 4** | [/boj/2441.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2441.py) | http://boj.kr/2441 |
