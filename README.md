@@ -67,6 +67,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | 10845 |                     **큐**                      |  [/boj/10845.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/10845.py)  | http://boj.kr/10845 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | 10866 |                     **덱**                      | [/boj/10866.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/10866.cpp) | http://boj.kr/10866 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | 11399 |                     **ATM**                     |  [/boj/11399.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/11399.py)  | http://boj.kr/11399 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | 13229 |                **Selection Sum**                | [/boj/13229.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/13229.cpp) | http://boj.kr/13229 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | 15624 |                **피보나치 수 7**                | [/boj/15624.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/15624.cpp) | http://boj.kr/15624 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | 18258 |                    **큐 2**                     | [/boj/18258.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/18258.cpp) | http://boj.kr/18258 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | 25288 |                  **영어 시험**                  | [/boj/25288.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/25288.cpp) | http://boj.kr/25288 |
@@ -218,17 +219,6 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>  | 1237  |                  **정ㅋ벅ㅋ**                   |  [/boj/1237.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1237.cpp)  | http://boj.kr/1237  |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>  | 9999  |                    **구구**                     |   [/boj/9999.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/9999.py)   | http://boj.kr/9999  |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>  | 12096 |                    \*\*\*\*                     |  [/boj/12096.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/12096.py)  | http://boj.kr/12096 |
-
-## 2️⃣ NEXON YOUTH PROGRAMMING CHALLENGE
-
-| No  |              Title              |                                                 Solution Link                                                 |                                            Problem Link                                            |
-| :-: | :-----------------------------: | :-----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-|  1  |           **최대 HP**           |  [/nypc/2019/2019_3.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_3.py)  |  [https://nypc.github.io/2019/2019_online_3.html](https://nypc.github.io/2019/2019_online_3.html)  |
-|  2  |          **요리 제작**          |  [/nypc/2019/2019_4.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2019/2019_4.py)  |  [https://nypc.github.io/2019/2019_online_4.html](https://nypc.github.io/2019/2019_online_4.html)  |
-|  3  |           **S OR T**            |  [/nypc/2020/2020_4.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2020/2020_4.py)  |  [https://nypc.github.io/2020/2020_online_4.html](https://nypc.github.io/2020/2020_online_4.html)  |
-|  4  |    **카트라이더 별 모으기**     |  [/nypc/2020/2020_5.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2020/2020_5.py)  |  [https://nypc.github.io/2020/2020_online_5.html](https://nypc.github.io/2020/2020_online_5.html)  |
-|  5  | **스피드전 할까 아이템전 할까** |  [/nypc/2020/2020_6.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2020/2020_6.py)  |  [https://nypc.github.io/2020/2020_online_6.html](https://nypc.github.io/2020/2020_online_6.html)  |
-|  6  |         **난센스 퀴즈**         | [/nypc/2020/2020_10.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/nypc/2020/2020_10.py) | [https://nypc.github.io/2020/2020_online_10.html](https://nypc.github.io/2020/2020_online_10.html) |
 
 ## 3️⃣ Leet Code Problem
 
