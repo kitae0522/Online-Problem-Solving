@@ -41,6 +41,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1003 | **피보나치 함수** | [/boj/1003.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1003.cpp) | http://boj.kr/1003 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1463 | **1로 만들기** | [/boj/1463.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1463.cpp) | http://boj.kr/1463 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1929 | **소수 구하기** | [/boj/1929.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1929.py) | http://boj.kr/1929 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 1966 | **프린터 큐** | [/boj/1966.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1966.cpp) | http://boj.kr/1966 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 2548 | **대표 자연수** | [/boj/2548.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2548.cpp) | http://boj.kr/2548 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 2606 | **바이러스** | [/boj/2606.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2606.cpp) | http://boj.kr/2606 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 9657 | **돌 게임 3** | [/boj/9657.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/9657.cpp) | http://boj.kr/9657 |
