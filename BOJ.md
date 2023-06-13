@@ -147,6 +147,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 2522 | **별 찍기 - 12** | [/boj/2522.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2522.py) | http://boj.kr/2522 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 2523 | **별 찍기 - 13** | [/boj/2523.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2523.py) | http://boj.kr/2523 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 2562 | **최댓값** | [/boj/2562.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2562.py) | http://boj.kr/2562 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 2566 | **최댓값** | [/boj/2566.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2566.cpp) | http://boj.kr/2566 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 2576 | **홀수** | [/boj/2576.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2576.cpp) | http://boj.kr/2576 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 2588 | **곱셈** | [/boj/2588.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2588.py) | http://boj.kr/2588 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 2884 | **알람 시계** | [/boj/2884.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2884.py) | http://boj.kr/2884 |
