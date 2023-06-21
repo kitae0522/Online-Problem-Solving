@@ -7,6 +7,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 1365 | **꼬인 전깃줄** | [/boj/1365.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1365.cpp) | http://boj.kr/1365 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 2142 | **정돈된 배열** | [/boj/2142.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2142.cpp) | http://boj.kr/2142 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 2749 | **피보나치 수 3** | [/boj/2749.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2749.cpp) | http://boj.kr/2749 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 1976 | **여행 가자** | [/boj/1976.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1976.cpp) | http://boj.kr/1976 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 5052 | **전화번호 목록** | [/boj/5052.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/5052.cpp) | http://boj.kr/5052 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 6156 | **Cow Contest** | [/boj/6156.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/6156.cpp) | http://boj.kr/6156 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 9663 | **N-Queen** | [/boj/9663.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/9663.py) | http://boj.kr/9663 |
@@ -62,6 +63,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 2839 | **설탕 배달** | [/boj/2839.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2839.py) | http://boj.kr/2839 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 9012 | **괄호** | [/boj/9012.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/9012.py) | http://boj.kr/9012 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 9656 | **돌 게임 2** | [/boj/9656.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/9656.cpp) | http://boj.kr/9656 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 10773 | **제로** | [/boj/10773.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/10773.cpp) | http://boj.kr/10773 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 10816 | **숫자 카드 2** | [/boj/10816.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/10816.cpp) | http://boj.kr/10816 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 10828 | **스택** | [/boj/10828.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/10828.py) | http://boj.kr/10828 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 10845 | **큐** | [/boj/10845.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/10845.py) | http://boj.kr/10845 |
