@@ -7,6 +7,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 1365 | **꼬인 전깃줄** | [/boj/1365.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1365.cpp) | http://boj.kr/1365 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 2142 | **정돈된 배열** | [/boj/2142.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2142.cpp) | http://boj.kr/2142 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 2749 | **피보나치 수 3** | [/boj/2749.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2749.cpp) | http://boj.kr/2749 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 4195 | **친구 네트워크** | [/boj/4195.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/4195.cpp) | http://boj.kr/4195 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 1976 | **여행 가자** | [/boj/1976.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1976.cpp) | http://boj.kr/1976 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 5052 | **전화번호 목록** | [/boj/5052.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/5052.cpp) | http://boj.kr/5052 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 6156 | **Cow Contest** | [/boj/6156.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/6156.cpp) | http://boj.kr/6156 |
