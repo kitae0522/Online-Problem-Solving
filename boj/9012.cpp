@@ -1,11 +1,11 @@
 #include <bits/stdc++.h>
 
-#define STDIO() ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
+#define STDIO() ios_base::sync_with_stdio(false); cin.tie(nullptr); cout.tie(nullptr);
 using namespace std;
 
 int T;
 
-string checkVPS(const string& str)
+string check_vps(string& str)
 {
     int count = 0;
     for (char c: str)
@@ -27,7 +27,7 @@ int main()
     while (T--)
     {
         string str; cin >> str;
-        cout << checkVPS(str) << '\n';
+        cout << check_vps(str) << '\n';
     }
     return 0;
 }
