@@ -6,6 +6,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | 15311 | **약 팔기** | [/boj/15311.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/15311.cpp) | http://boj.kr/15311 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 1365 | **꼬인 전깃줄** | [/boj/1365.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1365.cpp) | http://boj.kr/1365 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 2142 | **정돈된 배열** | [/boj/2142.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2142.cpp) | http://boj.kr/2142 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 2437 | **저울** | [/boj/2437.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2437.cpp) | http://boj.kr/2437 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 2749 | **피보나치 수 3** | [/boj/2749.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2749.cpp) | http://boj.kr/2749 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 4195 | **친구 네트워크** | [/boj/4195.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/4195.cpp) | http://boj.kr/4195 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 1976 | **여행 가자** | [/boj/1976.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1976.cpp) | http://boj.kr/1976 |
@@ -78,6 +79,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 18258 | **큐 2** | [/boj/18258.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/18258.cpp) | http://boj.kr/18258 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 24417 | **알고리즘 수업 - 피보나치 수 2** | [/boj/24417.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/24417.cpp) | http://boj.kr/24417 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 25288 | **영어 시험** | [/boj/25288.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/25288.cpp) | http://boj.kr/25288 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 28065 | **SW 수열 구하기** | [/boj/28065.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/28065.cpp) | http://boj.kr/28065 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1010 | **다리 놓기** | [/boj/1010.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1010.cpp) | http://boj.kr/1010 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1094 | **막대기** | [/boj/1094.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1094.cpp) | http://boj.kr/1094 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1181 | **단어 정렬** | [/boj/1181.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1181.cpp) | http://boj.kr/1181 |
