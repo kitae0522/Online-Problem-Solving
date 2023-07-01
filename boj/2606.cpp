@@ -1,31 +1,37 @@
-#include <iostream>
-#include <vector>
+#include <bits/stdc++.h>
+
+#define STDIO() ios_base::sync_with_stdio(false); cin.tie(nullptr); cout.tie(nullptr);
 using namespace std;
 
-int chk[101], count;
-vector<int> arr[101];
+int parent[101];
+int V, E, R;
 
-void dfs(int x) {
-    if(chk[x]) return;
-    chk[x] = 1;
-    count++;
-    for(int i=0;i<arr[x].size();i++) {
-        int y = arr[x][i];
-        dfs(y);
-    }
+int find_root(int x)
+{
+    if (parent[x] == x) return x;
+    return parent[x] = find_root(parent[x]);
 }
 
-int main() {
-	int N, M;
-	cin >> N >> M;
-    for(int i=1;i<=M;i++) {
-        int num1, num2;
-        cin >> num1 >> num2;
-        arr[num1].push_back(num2);
-        arr[num2].push_back(num1);
+void union_root(int x, int y)
+{
+    x = find_root(x);
+    y = find_root(y);
+    if (x < y) parent[y] = x;
+    else parent[x] = y;
+}
+
+int main()
+{
+    STDIO();
+    cin >> V >> E;
+    for (int i = 1; i <= V; ++i) parent[i] = i;
+    for (int i = 0; i < E; ++i)
+    {
+        int to, from;
+        cin >> to >> from;
+        union_root(to, from);
     }
-    dfs(1);
-    
-	cout << count -1;
-	return 0;
+    for (int i = 2; i <= V; ++i) if (find_root(1) == find_root(i)) R++;
+    cout << R << '\n';
+    return 0;
 }
