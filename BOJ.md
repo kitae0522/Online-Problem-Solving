@@ -20,6 +20,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 6156 | **Cow Contest** | [/boj/6156.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/6156.cpp) | http://boj.kr/6156 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 9663 | **N-Queen** | [/boj/9663.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/9663.py) | http://boj.kr/9663 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 9935 | **문자열 폭발** | [/boj/9935.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/9935.py) | http://boj.kr/9935 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 11404 | **플로이드** | [/boj/11404.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/11404.cpp) | http://boj.kr/11404 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 15971 | **두 로봇** | [/boj/15971.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/15971.cpp) | http://boj.kr/15971 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 16398 | **행성 연결** | [/boj/16398.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/16398.cpp) | http://boj.kr/16398 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 17425 | **약수의 합** | [/boj/17425.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/17425.cpp) | http://boj.kr/17425 |
@@ -57,6 +58,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 2805 | **나무 자르기** | [/boj/2805.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2805.cpp) | http://boj.kr/2805 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 4963 | **섬의 개수** | [/boj/4963.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/4963.cpp) | http://boj.kr/4963 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 11051 | **이항 계수 2** | [/boj/11051.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/11051.cpp) | http://boj.kr/11051 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 11053 | **가장 긴 증가하는 부분 수열** | [/boj/11053.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/11053.cpp) | http://boj.kr/11053 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 11724 | **연결 요소의 개수** | [/boj/11724.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/11724.cpp) | http://boj.kr/11724 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 15810 | **풍선 공장** | [/boj/15810.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/15810.cpp) | http://boj.kr/15810 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 15965 | **K번째 소수** | [/boj/15965.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/15965.py) | http://boj.kr/15965 |
@@ -84,6 +86,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 27965 | **N결수** | [/boj/27965.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/27965.cpp) | http://boj.kr/27965 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 1158 | **요세푸스 문제** | [/boj/1158.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1158.cpp) | http://boj.kr/1158 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 1269 | **대칭 차집합** | [/boj/1269.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1269.cpp) | http://boj.kr/1269 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 1764 | **듣보잡** | [/boj/1764.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1764.cpp) | http://boj.kr/1764 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 1920 | **수 찾기** | [/boj/1920.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1920.cpp) | http://boj.kr/1920 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 2003 | **수들의 합 2** | [/boj/2003.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2003.cpp) | http://boj.kr/2003 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 2164 | **카드2** | [/boj/2164.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2164.cpp) | http://boj.kr/2164 |
@@ -138,7 +141,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 1934 | **최소공배수** | [/boj/1934.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1934.py) | http://boj.kr/1934 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 2309 | **일곱 난쟁이** | [/boj/2309.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2309.py) | http://boj.kr/2309 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 2609 | **최대공약수와 최소공배수** | [/boj/2609.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2609.cpp) | http://boj.kr/2609 |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 2748 | **피보나치 수 2** | [/boj/2748.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2748.py) | http://boj.kr/2748 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 2748 | **피보나치 수 2** | [/boj/2748.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2748.cpp) | http://boj.kr/2748 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 2869 | **달팽이는 올라가고 싶다** | [/boj/2869.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2869.cpp) | http://boj.kr/2869 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 4344 | **평균은 넘겠지** | [/boj/4344.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/4344.py) | http://boj.kr/4344 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | 10798 | **세로읽기** | [/boj/10798.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/10798.py) | http://boj.kr/10798 |
@@ -216,6 +219,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | 10039 | **평균 점수** | [/boj/10039.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/10039.py) | http://boj.kr/10039 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | 11720 | **숫자의 합** | [/boj/11720.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/11720.py) | http://boj.kr/11720 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | 15552 | **빠른 A+B** | [/boj/15552.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/15552.cpp) | http://boj.kr/15552 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | 28074 | **모비스** | [/boj/28074.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/28074.cpp) | http://boj.kr/28074 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 1000 | **A+B** | [/boj/1000.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1000.cpp) | http://boj.kr/1000 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 1001 | **A-B** | [/boj/1001.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1001.cpp) | http://boj.kr/1001 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 1008 | **A/B** | [/boj/1008.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1008.cpp) | http://boj.kr/1008 |
@@ -229,6 +233,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 2738 | **행렬 덧셈** | [/boj/2738.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2738.py) | http://boj.kr/2738 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 2739 | **구구단** | [/boj/2739.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2739.py) | http://boj.kr/2739 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 2741 | **N 찍기** | [/boj/2741.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2741.py) | http://boj.kr/2741 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 2743 | **단어 길이 재기** | [/boj/2743.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2743.py) | http://boj.kr/2743 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 2744 | **대소문자 바꾸기** | [/boj/2744.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2744.cpp) | http://boj.kr/2744 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 2753 | **윤년** | [/boj/2753.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2753.py) | http://boj.kr/2753 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 3003 | **킹, 퀸, 룩, 비숍, 나이트, 폰** | [/boj/3003.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/3003.cpp) | http://boj.kr/3003 |
