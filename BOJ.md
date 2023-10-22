@@ -37,6 +37,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 1351 | **무한 수열** | [/boj/1351.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1351.cpp) | http://boj.kr/1351 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 1717 | **집합의 표현** | [/boj/1717.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1717.cpp) | http://boj.kr/1717 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 1759 | **암호 만들기** | [/boj/1759.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1759.py) | http://boj.kr/1759 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 1990 | **소수인팰린드롬** | [/boj/1990.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1990.cpp) | http://boj.kr/1990 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 2194 | **유닛 이동시키기** | [/boj/2194.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2194.cpp) | http://boj.kr/2194 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 2293 | **동전 1** | [/boj/2293.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2293.cpp) | http://boj.kr/2293 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 2294 | **동전 2** | [/boj/2294.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2294.cpp) | http://boj.kr/2294 |
@@ -133,6 +134,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1439 | **뒤집기** | [/boj/1439.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1439.cpp) | http://boj.kr/1439 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1676 | **팩토리얼 0의 개수** | [/boj/1676.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1676.cpp) | http://boj.kr/1676 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1769 | **3의 배수** | [/boj/1769.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1769.py) | http://boj.kr/1769 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 1789 | **수들의 합** | [/boj/1789.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/1789.cpp) | http://boj.kr/1789 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 2167 | **2차원 배열의 합** | [/boj/2167.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2167.cpp) | http://boj.kr/2167 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 2751 | **수 정렬하기 2** | [/boj/2751.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2751.cpp) | http://boj.kr/2751 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 5347 | **LCM** | [/boj/5347.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/5347.cpp) | http://boj.kr/5347 |
@@ -189,6 +191,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 2908 | **상수** | [/boj/2908.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2908.py) | http://boj.kr/2908 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 2920 | **음계** | [/boj/2920.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/2920.cpp) | http://boj.kr/2920 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 3052 | **나머지** | [/boj/3052.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/3052.py) | http://boj.kr/3052 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 5585 | **거스름돈** | [/boj/5585.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/5585.cpp) | http://boj.kr/5585 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 8958 | **OX퀴즈** | [/boj/8958.py](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/8958.py) | http://boj.kr/8958 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 10809 | **알파벳 찾기** | [/boj/10809.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/10809.cpp) | http://boj.kr/10809 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | 10811 | **바구니 뒤집기** | [/boj/10811.cpp](https://github.com/kitae0522/Online-Problem-Solving/blob/master/boj/10811.cpp) | http://boj.kr/10811 |
